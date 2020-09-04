@@ -1,0 +1,247 @@
+alibaba/nacos,https://github.com/alibaba/nacos/issues/3665,The Raft Group [nacos_config] did not find the Leader node
+alibaba/nacos,https://github.com/alibaba/nacos/pull/3656,[ISSUE #3621 Fix Passwords containing special characters are not supported (such as character "+")
+alibaba/nacos,https://github.com/alibaba/nacos/pull/3654,[ISSUE#3315]Nacos client support https
+alibaba/nacos,https://github.com/alibaba/nacos/pull/3574,Fix #2195 add interface getConfigInfo getConfigToProperties and add content parse properties ContentUtils.toProperties() Support (xml,json,yaml,properties)
+alibaba/nacos,https://github.com/alibaba/nacos/pull/2900,[ISSUE#2885]check parameter for naming service
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2804,IBM JDK
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2732,Failed to obtain JDBC Connection; Mysql version is 5.7.x
+alibaba/nacos,https://github.com/alibaba/nacos/pull/2662,[ISSUE #2660]  Add the type parameter when call publishConfig(), and support Aliyun ACM
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2590,Unable to start web server nacos1.2.1
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2555,nacos 1.2.0. dom name can only have these characters: 0-9a-zA-Z-._
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2395,500 msg: java.net.SocketTimeoutException: connect timed out
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3658,Internal compile error when accessing property of return value inside a condition with language out ES2017
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3657,Re-export of default from commonjs module throws internal error
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3599,Returning loop variables inside a object property getter causes crash
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3593,Internal compiler error due to unexpected variable (which is not part of the program)
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3592,java.lang.IllegalStateException: Object method calls can not be decomposed
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3591,Internal functions can capture implementation names by using $jscomp$
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3545,BROWSER_WITH_TRANSFORMED_PREFIXES causes NullPointerException when imported module is not found
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3511,NullPointerException during compilation of cocos2d application
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3484,java.lang.NullPointerException: NAME goog 12
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3480,NullPointerException when mismatching type is a primitive type in templates
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3381,NullPointerException when inlining literals in dead code
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3379,IllegalStateException when using binary assignment operator on string length
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3377,NullPointerException when defining function named "arguments" inside arrow function
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3376,UnsupportedOperationException when using variable "arguments" inside arrow function body
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3375,NullPointerException when using arrow functions with argument named "argument"
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3336,NullPointerException in calculated default values
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3284,INTERNAL COMPILER ERROR when compiling into ES6
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3220,ExpressionDecomposer throws IllegalStateException: Object method calls can not be decomposed
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3054,Internal Compiler Error when trying to compile openpgp npm module
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3010,Internal Compiler Error with ES6 class extends in externs but not code
+google/closure-compiler,https://github.com/google/closure-compiler/issues/2948,project not found by mvn to create the linter binary
+lets-blade/blade,https://github.com/lets-blade/blade/issues/393,Cannot start application on Mac
+lets-blade/blade,https://github.com/lets-blade/blade/issues/391,Exception in thread "main" java.lang.NoClassDefFoundError: com/blade/Blade
+lets-blade/blade,https://github.com/lets-blade/blade/issues/385,Templates cannot be read if application is packaged in far jar (OpenLiberty)
+lets-blade/blade,https://github.com/lets-blade/blade/issues/374,Template path not recognized
+lets-blade/blade,https://github.com/lets-blade/blade/issues/171,Got an exception while uploading a file
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/1395,Command queueing during redis outage doesn't seem to work
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/1391,Connecting to a sentinel Redis 5.0.7 fails with `NOAUTH Authentication required`
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/1344,AWS Elasticache Clustered mode Redis Auto Failover putting the client in bad state
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/1293,Not able to read the updated Master when connected Master/Slave through sentinel
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/1245,Cannot failover when timeout error occurs for sentinel node
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/1042,Redis Multilevel Master Slave  Replication
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/915,Lettuce is consistently failing because of full stack after few Redis reconnects
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/788,CommandHandler.exceptionCaught does incorrect behavior when occuring exception in addToStack()
+lettuce-io/lettuce-core,https://github.com/lettuce-io/lettuce-core/issues/695,Ensure atomic transactions after reconnect
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/253,Error in opening jar package
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/251,Unable to open file
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/248,Luyten ClassCastException at MethodSignature
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/247,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/246, Invalid BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/237,Find all OOB when trying to search obfuscated jar.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/236,Find All Error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/235, Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/234,a error happened
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/233,null
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/231,BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/229,A error happened when i saving codes
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/228,java.lang.IllegalArgumentException: MALFORMED
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/225,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/224,Find all error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/222,Installation errors
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/217,Open Luyten Error (JDK 11.0.4)
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/216,luyten-0.5.4 crash in macOS 10.13
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/210,AST Error:  java.lang.IllegalArgumentException: Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/209,Problem When Opening .Class File
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/207,java.lang.IllegalStateException: Invalid BootstrapMethods attribute entry
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/559,Change HashMap to ConcurrentHashMap
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/554,JSONObject constructor Issue arising from the #552 pull request
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/551,Implement opt/get methods for accumulated values
+ben-manes/caffeine,https://github.com/ben-manes/caffeine/issues/322,refresh() appears to not use lock
+ben-manes/caffeine,https://github.com/ben-manes/caffeine/issues/193,Invalidate before Refresh completes still stores value
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2216,Error importing file: <dylib_name> when extracting from dyld_shared_cache_arm64
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2192,macOS 11 boot kext collection fails to import because ntools is set to 0 in LC_BUILD_VERSION
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2187,ClassNotFoundException in Headless mode w/ jdk11
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2177,NPE OverridePrototypeAction
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/pull/2157,Prevent silent AddressOutOfBoundsException in MipsAddressAnalyzer
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2153,"Windows x86 PE RTTI Analyzer" OOB
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/pull/2111,Add more functions to PEFunctionsThatDoNotReturn
+oracle/graal,https://github.com/oracle/graal/issues/2779,Gradle kapt build issue with svm
+oracle/graal,https://github.com/oracle/graal/issues/2774,Start Java-Program from Eclipse causes ClassNotFoundExceptions
+oracle/graal,https://github.com/oracle/graal/issues/2758,Error creating native image for Micronaut and AWS Dynamo DB without `--report-unsupported-elements-at-runtime`
+oracle/graal,https://github.com/oracle/graal/issues/2754,Jersey HK2 giving dynamic proxy error while running native image
+oracle/graal,https://github.com/oracle/graal/issues/2745,GraalVM native image kerberos authentication issue: failed to store/retrieve AccessControlContext to/from stack  
+oracle/graal,https://github.com/oracle/graal/issues/2740,LibraryFactory.createDispatched does not throw IllegalArgumentException for negative limit
+oracle/graal,https://github.com/oracle/graal/issues/2736,Fail to build Micronaut Micrometer (CloudWatch) native image without --report-unsupported-elements-at-runtime: DeletedElementException
+oracle/graal,https://github.com/oracle/graal/issues/2735,Native image compilation of org.bouncycastle.math.raw.Nat256.mul asserts
+oracle/graal,https://github.com/oracle/graal/issues/2729,Using Java AWT Fonts gives unsatisfiedlinkerror while running native image
+oracle/graal,https://github.com/oracle/graal/issues/2727,native-image failing on aarch64 with: Cannot run program ... PosixDirectives ... error=13, Permission Denied
+oracle/graal,https://github.com/oracle/graal/issues/2723,Error: Incompatible change of initialization policy for java.io.RandomAccessFile: trying to change RERUN for JDK native code support via JNI to BUILD_TIME super type of org.apache.fontbox.ttf.BufferedRandomAccessFile
+oracle/graal,https://github.com/oracle/graal/issues/2721,Method called from static initializer not @Substitute'd
+oracle/graal,https://github.com/oracle/graal/issues/2720,Analysis fails because field of TypeInfoImpl has type incompatible with proxy of XmlSeeAlso
+oracle/graal,https://github.com/oracle/graal/issues/2719,java.xml resource refuses to be included in native-image
+oracle/graal,https://github.com/oracle/graal/issues/2715,Possible formatting directive from Object.toString() not escaped
+oracle/graal,https://github.com/oracle/graal/issues/2711,[native-image] StackOverflowError occurs when running a app using a shared library built using native-image
+oracle/graal,https://github.com/oracle/graal/issues/2707,Spring native image issue
+oracle/graal,https://github.com/oracle/graal/issues/2706,Spring native image issue (class jdk.vm.ci.services.Services not found)
+oracle/graal,https://github.com/oracle/graal/issues/2702,Exception in thread "main" java.time.DateTimeException: Unable to initialize HijrahCalendar: Hijrah-umalqura
+oracle/graal,https://github.com/oracle/graal/issues/2696,Native Image fails with Exception java.lang.ExceptionInInitializerError while using Jasper Report
+oracle/graal,https://github.com/oracle/graal/issues/2694,GraalVM-built native image does not support Unsafe.staticFieldOffset() method
+netty/netty,https://github.com/netty/netty/issues/10436,Http2: server rejects request with valid :protocol pseudo header
+netty/netty,https://github.com/netty/netty/issues/10426,Possible memory leak when set maxPendingTasks=100
+netty/netty,https://github.com/netty/netty/issues/10411,Epoll client channel throws NotYetConnectedException on connect failure
+netty/netty,https://github.com/netty/netty/issues/10406,Netty Client
+netty/netty,https://github.com/netty/netty/issues/10376,Upgrade to JC Tools 3.0 changes queue behavior when compiled natively on GraalVM.
+netty/netty,https://github.com/netty/netty/issues/10365,reactor.core.Exceptions$ReactiveException: io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection timed out
+netty/netty,https://github.com/netty/netty/issues/10351,DiskAttribute may cause memory leak
+netty/netty,https://github.com/netty/netty/issues/10324,HttpPostRequestDecoder exception
+netty/netty,https://github.com/netty/netty/issues/10293,Android client connection timeout
+netty/netty,https://github.com/netty/netty/issues/10281,Error in Upload tests after updating netty 4.1.49 -> 4.1.50 (HttpPostMultipartRequestDecoder regression)
+netty/netty,https://github.com/netty/netty/issues/10277,[Improvement] Add Http status as a separate field in exception on not 101 HTTP response code during web socket handshake
+netty/netty,https://github.com/netty/netty/issues/10238,http request json data contains '=' will appear  io.netty.handler.codec.http.multipart.HttpPostRequestDecoder$ErrorDataDecoderException: java.io.IOException: Unable to create temporary file
+netty/netty,https://github.com/netty/netty/issues/10114,mvn test failed on netty-transport-native-epoll
+netty/netty,https://github.com/netty/netty/issues/10098,LengthFieldBasedFrameDecoder fails with TooLongFrameException
+netty/netty,https://github.com/netty/netty/issues/9988,No instances of java.net.Inet6Address are allowed in the image heap as this class should be initialized at image runtime.
+netty/netty,https://github.com/netty/netty/issues/9918,Native image generation fails with Netty 4.1.44.Final
+netty/netty,https://github.com/netty/netty/pull/9892,Make ResourceLeakDetector also emit recent access records for IllegalReferenceCountException
+netty/netty,https://github.com/netty/netty/issues/9882,io.netty.util.IllegalReferenceCountException on random HTTP requests
+netty/netty,https://github.com/netty/netty/issues/9793,UDP client observing packet loss
+netty/netty,https://github.com/netty/netty/issues/9669,IllegalStateException: complete already on notifyListener / operationComplete
+netty/netty,https://github.com/netty/netty/issues/9604,Difference between FixedChannelPool and SimpleChannelPool
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25633,Allow to create subclasses of HttpWebHandlerAdapter in WebHttpHandlerBuilder
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25632,Possible fix - Quartz: Make MethodInvokingJobDetailFactoryBeans compatible with quartz JobStore.
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25629,Kotlin code that uses WebClient fails after upgrade to Spring 5.2
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25628,Update signature of MessageSource.getMessage() methods
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25627,Circular dependencies reporting is unclear
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25622,Spring boot java.lang.IllegalStateException: Required to bind 2 arguments, but only bound 1 (JoinPointMatch was NOT bound in invocation)
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25593,Kotlin extension function on Generics type + @Validated proxy class causes an ArrayIndexOutOfBoundsException
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/pull/25584,Fix FileUrlResource isWritable method returns true if  URL's protocol is not about file  bug
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25541,Webflux Routing DSL's onError filters execute in unexpected order
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25505,1st instance of AOP proxy leaks its advice
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25490,ResponseEntity<StreamingResponseBody> Exception Handling Issues
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/pull/25489,specify null and zero length data
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25467,Throw RestClientResponseException instead of RestClientException in HttpMessageConverterExtractor when an error occurs during unmarshalling
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25466,Spring Beans does not properly unwrap value if the value is java.util.Optional
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25462,Global and Local logging
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25438,Reporting wrong  SpelEvaluation EL1004E when an exception is happening in the method
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25432,@MockBean(answer: org.mockito.Answers, ...) should be interface to allow custom answers
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25388,SimpleJdbcInsert needs backticks in table name for in MariaDB
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/pull/25358,Support for customization of NotFound response when RouterFunctionWebHandler finds no routes
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25346,@ControllerAdvice on bean factory method does not work due overly restrictive target of the ControllerAdvice annotation
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25336,ExceptionHandler questionable behavior exposing exception causes
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9072,deeplearning4j InvalidKerasConfigurationException
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9068,Op Profiler causes nullpointer exception when enabled with cuda backend
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9067,INDArray allows retrieval of value from invalid index
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9060,Running Error for using Causal Convolution1D
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9058,Nd4jBackend using wrong ClassLoader
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9056,NativeImageLoader wrong RGB loading of Mat
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9050,LocallyConnected2D NullPointerException array values at LocallyConnected2D.java:216
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9049,LocallyConnected2D hashCode() NullPointerException
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9044,Cannot remove array: not found in ArrayCache
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9043,Batch norm layer expected input of type CNN, CNN Flat or FF, got InputTypeRecurrent(64,timeSeriesLength=4096,format=NWC)
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9038,Errors occur when training word2vec on spark
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9032,EXCEPTION_ACCESS_VIOLATION (0xc0000005) during training
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9028,defineInputs(int numInputs) in SDVertexParams is a NoOp
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9016,libnd4j: weighted_cross_entropy_with_logits backprop op implementation required
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9015,weightedCrossEntropyWithLogits doesn't accept null weights
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9014,Not able to import unet based model
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9003,Unable to use CUDA at version 1.0.0-beta7
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9000,Failed to import keras seq2seq model to DL4J with Merge Vertex error
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8990,Keras Model Import Does Not Support Class Handles for Loss Functions
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8989,DL4J Keras model import: custom Keras layers hould throw useful exception if missing constructor
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8988,ND4J/DL4J/SameDiff: ISchedule implementation JSON issue
+apache/pulsar,https://github.com/apache/pulsar/issues/7884,Correctly handle the asynchronous programming suggestions of api and base in the admin api of pulsar-broker.
+apache/pulsar,https://github.com/apache/pulsar/issues/7878,NPE when acknowledge messages at the broker side
+apache/pulsar,https://github.com/apache/pulsar/issues/7876,Broker auto shut down in a geo-replication cluster
+apache/pulsar,https://github.com/apache/pulsar/issues/7870,The broker node crashes and the log shows zktime out，pulsar version  2.5.0
+apache/pulsar,https://github.com/apache/pulsar/issues/7811,Pulsar SQL can't query the InactiveTopics and un-managedLedger
+apache/pulsar,https://github.com/apache/pulsar/issues/7804,ConcurrentModificationException occurs when dispatch message to consumers
+apache/pulsar,https://github.com/apache/pulsar/issues/7775,seeking on a timestamp, blocks the reader 
+apache/pulsar,https://github.com/apache/pulsar/issues/7763,Producers are Failing to Create when Connecting to a "Non-Persistent Partitioned Replicated" Topic
+apache/pulsar,https://github.com/apache/pulsar/issues/7755,offload data query error
+apache/pulsar,https://github.com/apache/pulsar/issues/7751,Pulsar-Admin timeout all the time
+apache/pulsar,https://github.com/apache/pulsar/issues/7742,Allow function instance configuring a different instance classpath
+apache/pulsar,https://github.com/apache/pulsar/issues/7722,Sql Worker dies with misformatted query
+apache/pulsar,https://github.com/apache/pulsar/issues/7692,Redolookup on REST API call
+apache/pulsar,https://github.com/apache/pulsar/issues/7679,lookup returns a broker that is no longer in the cluster
+apache/pulsar,https://github.com/apache/pulsar/issues/7653,Failed to build bookie server in kubernetes environment
+apache/pulsar,https://github.com/apache/pulsar/issues/7650,Pulsar Function random IO Exception error
+apache/pulsar,https://github.com/apache/pulsar/pull/7600,[Issue 3127][python-client] Replace Exceptions with PulsarExceptions
+apache/pulsar,https://github.com/apache/pulsar/issues/7579,Make encryptionKey property configurable through producer configurations using loadConf method
+apache/pulsar,https://github.com/apache/pulsar/issues/7569,Failed to build bookie server
+apache/pulsar,https://github.com/apache/pulsar/issues/7563,2.6 AuthorizationProvider breaks compatibly with earlier versions
+apache/pulsar,https://github.com/apache/pulsar/issues/7505,start/stop function fail
+mockito/mockito,https://github.com/mockito/mockito/issues/2016,Mockito gives wrong exception message when calling mock A while verifying mock B
+mockito/mockito,https://github.com/mockito/mockito/issues/2011,Stackoverflow error when upgrading to v3.5.2
+mockito/mockito,https://github.com/mockito/mockito/issues/2008,Mockito cannot mock this class AdoptOpenJDK 1.8.0_265-b01
+mockito/mockito,https://github.com/mockito/mockito/issues/2005,Kotlin methods with default arguments requires argument matchers on all parameters
+mockito/mockito,https://github.com/mockito/mockito/issues/2001,Verification with timeout on synchronized method fails
+mockito/mockito,https://github.com/mockito/mockito/issues/1980,mockito3.4.0 InlineByteBuddyMockMaker can't work with spring cglib proxy, but ByteBuddyMockMaker works
+mockito/mockito,https://github.com/mockito/mockito/issues/1979,mockStatic throws StackOverflowError when mocking Arrays.
+mockito/mockito,https://github.com/mockito/mockito/issues/1970,InvalidUseOfMatchersException for When...Return
+mockito/mockito,https://github.com/mockito/mockito/issues/1969,Unable to use the mockito extension mechanism to mock on final classes for Java 13 and above
+mockito/mockito,https://github.com/mockito/mockito/issues/1962,Ambiguous method overloading - Spring RestTemplate
+mockito/mockito,https://github.com/mockito/mockito/issues/1944,mockito-android fails with AndroidStudio 4
+mockito/mockito,https://github.com/mockito/mockito/issues/1935,InjectMocks have naive approach in choosing the multiple constructors with same size 
+mockito/mockito,https://github.com/mockito/mockito/issues/1930,Kotlin Result seems to behave weirdly when trying to be returned with Mockito
+mockito/mockito,https://github.com/mockito/mockito/issues/1925,@Mock does not work with Maven and Java 13
+mockito/mockito,https://github.com/mockito/mockito/issues/1917,MockitoExtension cannot handle multiple generic mocks with different parameterized type
+mockito/mockito,https://github.com/mockito/mockito/issues/1916,Mockito failed to run on Windows 10 with OpenJDK v11
+mockito/mockito,https://github.com/mockito/mockito/issues/1902,`clearInlineMocks` not working with `MockitoJUnit.rule()`
+mockito/mockito,https://github.com/mockito/mockito/issues/1899,Issue with initializing inline Byte Buddy mock maker on IBM java
+mockito/mockito,https://github.com/mockito/mockito/issues/1873,StrictStubs incorrectly detects PotentialStubbingProblem for Spy's
+mockito/mockito,https://github.com/mockito/mockito/issues/1872,Mock Fails Only in Debug Mode When Using mock-maker-inline
+mockito/mockito,https://github.com/mockito/mockito/issues/1871,@InjectMocks can't inject both @Autowired and constructor dependencies
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1314,Unexpected error when unlocking vault for the first time
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1313,Impossible to unblock a new container for onedrive
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1312,Vault problems with both Dokany and Webdav
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1310,Unexpected error trying to unlock a newly created Vault (macOS) after updating to 1.5.7
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1305,Unexpected error after update to Cryptomator 1.5.7 and Dokan 1.4
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1304,DirectoryNotEmptyException when migrating
+apache/dubbo,https://github.com/apache/dubbo/issues/6629,Support set fixed rmi service port
+apache/dubbo,https://github.com/apache/dubbo/issues/6581,hessian can NOT initial org.springframework.data.domain.Pageable correctly
+apache/dubbo,https://github.com/apache/dubbo/issues/6503,protocol check hessian consumer can not  consume
+apache/dubbo,https://github.com/apache/dubbo/issues/6488,spring cloud with dubbo: stop dubbo app, shutdown hook exception
+apache/dubbo,https://github.com/apache/dubbo/issues/6404,all the time reconnect dubbo provider
+apache/dubbo,https://github.com/apache/dubbo/issues/6397,Set consumer tag by RpcContext doesn't work
+apache/dubbo,https://github.com/apache/dubbo/issues/6290,When a user enters a backslash (\) or other special characters in the URL of the account suspension page, the page returns error code 400 and stack error information. 
+apache/dubbo,https://github.com/apache/dubbo/issues/6214,Apps act as consumers and service providers throw java.lang.IllegalStateException: Duplicate application configs
+apache/dubbo,https://github.com/apache/dubbo/issues/6213,dubbo register service name missing version,health check service failure!
+apache/dubbo,https://github.com/apache/dubbo/issues/6112,GenericService Invoke Don't Support Subclasses
+apache/dubbo,https://github.com/apache/dubbo/issues/6104,dubbo-remoting-etcd3 BUILD FAILURE
+apache/dubbo,https://github.com/apache/dubbo/issues/6103,dubbo-config-api BUILD FAILURE
+apache/dubbo,https://github.com/apache/dubbo/issues/6087,No provider available for the service org.apache.dubbo.demo.DemoService
+apache/dubbo,https://github.com/apache/dubbo/issues/6022,ZoneAware doesn't work with zone configuration
+apache/dubbo,https://github.com/apache/dubbo/issues/6000,Autowired a ReferenceBean failed in some situation in Spring enviroment.
+apache/dubbo,https://github.com/apache/dubbo/issues/5923,Dubbo 2.7.5: Duplicate ServiceBean found
+apache/dubbo,https://github.com/apache/dubbo/issues/5922,bad smell in AdaptiveClassCodeGenerator
+apache/dubbo,https://github.com/apache/dubbo/issues/5842,move ContextFilter's order to the lowest, avoid RpcContext be cleared
+apache/dubbo,https://github.com/apache/dubbo/issues/5829,No such extension org.apache.dubbo.rpc.cluster.LoadBalance by name random
+apache/dubbo,https://github.com/apache/dubbo/issues/5796,My application cannot be started, block in DubboMetadataServiceProxy# initProxy here
+apache/dubbo,https://github.com/apache/dubbo/issues/5700,Custom extension in provider result in error in consumer
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2804,IBM JDK
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2732,Failed to obtain JDBC Connection; Mysql version is 5.7.x
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2590,Unable to start web server nacos1.2.1
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2555,nacos 1.2.0. dom name can only have these characters: 0-9a-zA-Z-._
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2395,500 msg: java.net.SocketTimeoutException: connect timed out
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1598,consumer can not work(get http error:500) when protocol choose hessian, but choose dubbo it works
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1584,Error creating bean with name 'ribbonServerList' defined in class path resource [com/alibaba/cloud/nacos/ribbon/NacosRibbonClientConfiguration.class]
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1498,spring-cloud-alibaba-dependencies 2.2.0.RELEASE PropertySourcesUtils ClassNotFoundException
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1420,Failed to stop bean 'inputBindingLifecycle'
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1165,springcloud microservice register nacos error
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1103,java.lang.IllegalStateException: No such extension org.apache.dubbo.registry.RegistryFactory by name spring-cloud
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1061,The spring-cloud-starter-stream-rabbit jar package conflict with spring-cloud-starter-alibaba-nacos-discovery
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1037,spring cloud alibaba dubbo with hessian protocal error
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/794,Error creating bean with name 'targeterBeanPostProcessor' defined 
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/760,nacos register hessian server status error

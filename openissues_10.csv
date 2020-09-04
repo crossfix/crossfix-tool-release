@@ -1,0 +1,607 @@
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/620,$.concat() function with filters in parameters doesn't work
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/615,Using function in path with GsonMappingProvider throws exception
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/612,map function not honouring Option.SUPPRESS_EXCEPTIONS
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/605,JsonPrimitive cannot be cast to java.lang.Boolean
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/597,AllEvaluator throws exception evaluating the right JSON
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/590,Problem with exponents
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/568,Getting java.lang.ClassCastException: class org.json.JSONArray cannot be cast to class java.util.List
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/549,Results do not match other implementations
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/537,renameKey throws PathNotFoundException even if SUPPRESS_EXCEPTIONS is set
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/497,NullPointerException with JSON containing empty object using deep scanning path using JsonOrgJsonProvider.
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/483,JsonPath.parse(json)  removes new line from the JSON payload.
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/460,StringIndexOutOfBoundsException if the query contains single quote. 
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/459,asNoJsonPath and wildcard jsonpath
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/457,PathNotFoundException in case of null value
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/441,ClassCastException in ValueNode$JsonNode.asValueListNode
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/413,delete jsonPath from class com.google.gson.JsonObject not active
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/409,readSignificantSubSequence should probably not throw exceptions
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/399,JSONPath compilation fails if a path with filter expression is used as an argument to a function
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/345,Using son path directly on Jackson annotated beans
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/336,JsonPath annotation root path exception
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/99,Missing PathNotFoundException in nested arrays.
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9453,Can't parse escape characters in .pgpass
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9377,Loading Proposals Takes Very Long
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9307,DBeaver snap does not start on Ubuntu 20.04
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9279,Data Editor: Error appears when column format is changed to Geometry
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9225,Opening Eclipse marketplace crashes dbeaver 
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9181,In 7.1.2 all the "File Open" actions trigger Exception - choose file dialog doesn't open.
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9091,Compilation error on arm64 platform
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9042,Creating PROCEDURE throwing a SQL compilation error due to syntax error
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8952,ClickHouse exception, code: 1002 Error
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8804,Can't reconnect database after lost connection
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8601,Snowflake Connections with SSO create infinite loop of auth when trying to reconnect
+oracle/graal,https://github.com/oracle/graal/issues/2729,Using Java AWT Fonts gives unsatisfiedlinkerror while running native image
+oracle/graal,https://github.com/oracle/graal/issues/2727,native-image failing on aarch64 with: Cannot run program ... PosixDirectives ... error=13, Permission Denied
+oracle/graal,https://github.com/oracle/graal/issues/2723,Error: Incompatible change of initialization policy for java.io.RandomAccessFile: trying to change RERUN for JDK native code support via JNI to BUILD_TIME super type of org.apache.fontbox.ttf.BufferedRandomAccessFile
+oracle/graal,https://github.com/oracle/graal/issues/2721,Method called from static initializer not @Substitute'd
+oracle/graal,https://github.com/oracle/graal/issues/2720,Analysis fails because field of TypeInfoImpl has type incompatible with proxy of XmlSeeAlso
+oracle/graal,https://github.com/oracle/graal/issues/2719,java.xml resource refuses to be included in native-image
+oracle/graal,https://github.com/oracle/graal/issues/2715,Possible formatting directive from Object.toString() not escaped
+oracle/graal,https://github.com/oracle/graal/issues/2711,[native-image] StackOverflowError occurs when running a app using a shared library built using native-image
+oracle/graal,https://github.com/oracle/graal/issues/2707,Spring native image issue
+oracle/graal,https://github.com/oracle/graal/issues/2706,Spring native image issue (class jdk.vm.ci.services.Services not found)
+oracle/graal,https://github.com/oracle/graal/issues/2705,[libgraal] NPE in compiler when using `--vm.Dgraal.Dump=Truffle:1`
+oracle/graal,https://github.com/oracle/graal/issues/2702,Exception in thread "main" java.time.DateTimeException: Unable to initialize HijrahCalendar: Hijrah-umalqura
+oracle/graal,https://github.com/oracle/graal/issues/2696,Native Image fails with Exception java.lang.ExceptionInInitializerError while using Jasper Report
+oracle/graal,https://github.com/oracle/graal/issues/2688,Truffle Api
+oracle/graal,https://github.com/oracle/graal/issues/2678,Java SecurityManager enabled requires access to java.home
+oracle/graal,https://github.com/oracle/graal/issues/2672,Build Error on Windows
+oracle/graal,https://github.com/oracle/graal/issues/2669,MBean / MXBean issue during native build
+oracle/graal,https://github.com/oracle/graal/issues/2658,Unable to call a default interface method on a JDK proxy
+oracle/graal,https://github.com/oracle/graal/issues/2657,Broken call tree reports on master
+oracle/graal,https://github.com/oracle/graal/issues/2654,Build fails while when xodus is being used
+oracle/graal,https://github.com/oracle/graal/issues/2644,Native Image of simplest Java Swing Application
+apache/dubbo-spring-boot-project,https://github.com/apache/dubbo-spring-boot-project/issues/719,a app is both provider and consumer,but throw exception when start up
+apache/dubbo-spring-boot-project,https://github.com/apache/dubbo-spring-boot-project/issues/548,Need example for annotation based service with 'callback parameter' method
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9453,Can't parse escape characters in .pgpass
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9377,Loading Proposals Takes Very Long
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9307,DBeaver snap does not start on Ubuntu 20.04
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9279,Data Editor: Error appears when column format is changed to Geometry
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9225,Opening Eclipse marketplace crashes dbeaver 
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9181,In 7.1.2 all the "File Open" actions trigger Exception - choose file dialog doesn't open.
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9091,Compilation error on arm64 platform
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/9042,Creating PROCEDURE throwing a SQL compilation error due to syntax error
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8952,ClickHouse exception, code: 1002 Error
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8804,Can't reconnect database after lost connection
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8601,Snowflake Connections with SSO create infinite loop of auth when trying to reconnect
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8460,Db2 - create PBR table space with relative pagenum option gives an error
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/8232,Informix - syntax error - get offset
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/7953,disconnect database during the work
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/7756,SQL Errors (type "geometry" or function/relation does not exist) when executing queries using PostGIS features (e.g. casting to geometry type)
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/7673,Filtering on foreign key column causes "ambiguous column naming in select list" error
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/7617,Dump/Restore error for Azure MySQL Databases
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/7250,Unable to connect to DB2 LUW database with authentication setting DATA_ENCRYPT
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/7173,[Snowflake] Multi-statement SQL execution in Snowflake
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver/issues/7067,GraphML support (draw.io, gephi)
+apache/dubbo-spring-boot-project,https://github.com/apache/dubbo-spring-boot-project/issues/719,a app is both provider and consumer,but throw exception when start up
+apache/dubbo-spring-boot-project,https://github.com/apache/dubbo-spring-boot-project/issues/548,Need example for annotation based service with 'callback parameter' method
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/253,Error in opening jar package
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/251,Unable to open file
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/248,Luyten ClassCastException at MethodSignature
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/247,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/246, Invalid BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/237,Find all OOB when trying to search obfuscated jar.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/236,Find All Error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/235, Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/234,a error happened
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/233,null
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/231,BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/229,A error happened when i saving codes
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/228,java.lang.IllegalArgumentException: MALFORMED
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/225,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/224,Find all error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/222,Installation errors
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/217,Open Luyten Error (JDK 11.0.4)
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/216,luyten-0.5.4 crash in macOS 10.13
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/210,AST Error:  java.lang.IllegalArgumentException: Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/209,Problem When Opening .Class File
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/207,java.lang.IllegalStateException: Invalid BootstrapMethods attribute entry
+alibaba/nacos,https://github.com/alibaba/nacos/issues/3437,The Raft Group [nacos_config] did not find the Leader node
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2804,IBM JDK
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2732,Failed to obtain JDBC Connection; Mysql version is 5.7.x
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2590,Unable to start web server nacos1.2.1
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2555,nacos 1.2.0. dom name can only have these characters: 0-9a-zA-Z-._
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2395,500 msg: java.net.SocketTimeoutException: connect timed out
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2352,org.springframework.web.client.RestClientException
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1404,Some HTML input causes NullPointerException in HtmlTreeBuilderState
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1400,java.lang.IllegalArgumentException: Request has already been read (with .parse())
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1363,Can't find h3 items
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1355,Build failure on master
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1350,Regression introduced when upgrading from 1.12.1 to 1.13.1
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1266,Unexpected end of ZLIB input stream
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1199,Jsoup 1.11.3 Connection.Response Authorization doesn't work with JRE 1.8.0_201
+jhy/jsoup,https://github.com/jhy/jsoup/issues/981,W3CDom attribute names case sensitivity
+jhy/jsoup,https://github.com/jhy/jsoup/issues/887,Remove illegal XML characters when converting HTML to XML
+jhy/jsoup,https://github.com/jhy/jsoup/issues/838,jsoup again unable to parse an id with a hyphen in it
+jhy/jsoup,https://github.com/jhy/jsoup/issues/729,SelectorParseException when selecting direct children of a disjunction of queries
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3212,[Bug] Changing TB_SERVER_WS_TENANT_RATE_LIMITS_MAX_QUEUE_PER_WS_SESSION to "0"
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3207,RestClient 3.1.0 |  getTimeseries() | Map has no value for 'limit'.
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3050,Copy to view node not working [Bug] 
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3035,[Bug] RemoteIntegrationManagerService fails on failFast field
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3022,[Bug] TbActorMailbox can't start after TB3.0.1 upgrade. 
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3021,[Bug] Exception on RestClient.login 3.0.1PE
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2993,[Bug] Cannot upgrade TB from 2.4.3 to 2.5.0 . Failed to execute query: DROP TABLE ts_kv_old; due to: ERROR: cannot drop table ts_kv_old because other objects depend on it
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2912,[Bug] Unable to send JSON file with JAVA POST 
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2896,[Bug]Error msg "Incorrect ReadTsKvQuery. Key can't be empty" appears many times.
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2838,tb-node microservice v2.5 fails to start due to missing dependency annotations or config
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2794,Facing issues running test cases from intellij IDE
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2725,Clean install on Raspberry Pi 3 Fails
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2715,Location of mqttserver.jks when built from sources
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2712,Data converter crashing trying to parse json from TTN. Json seems valid. Function works in test function mode with the same json message.
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/2673,java.io.IOException:Cannot run program "D:\data\07_AngularContactApp\ContactsApp\target\node\node.exe"
+apache/druid,https://github.com/apache/druid/issues/10222,Where clause fails on projection of a union subquery
+apache/druid,https://github.com/apache/druid/issues/10215,Indexer throwing java.lang.IllegalStateException
+apache/druid,https://github.com/apache/druid/issues/10212,Cannot start druid when using with gcs-connector.jar and druid-parquet-extensions
+apache/druid,https://github.com/apache/druid/issues/10209,Kerberos GSS errors reported when an indexation task map-reduce job fails
+apache/druid,https://github.com/apache/druid/issues/10207,druid-time-min-max ingestion error
+apache/druid,https://github.com/apache/druid/issues/10206,partial_index_generic_merge tasks fail immediately without logs (index_parallel)
+apache/druid,https://github.com/apache/druid/issues/10205,Filtered aggregation fails with IllegalStateException when druid.generic.useDefaultValueForNull=false
+apache/druid,https://github.com/apache/druid/issues/10204,IndexOutOfBoundsException in RelDecorrelator.decorrelateQuery
+apache/druid,https://github.com/apache/druid/issues/10154,NPE from CompactionTask
+apache/druid,https://github.com/apache/druid/issues/10153,Too many open files error
+apache/druid,https://github.com/apache/druid/issues/10140,The Group by, Order by scenarios have issues with reference field aliases
+apache/druid,https://github.com/apache/druid/issues/10108,DruidSegmentReader uses wrong timestampSpec column
+apache/druid,https://github.com/apache/druid/issues/10077,build druid-0.18.1 failed
+apache/druid,https://github.com/apache/druid/issues/10042,com.yahoo.sketches.SketchesArgumentException: Incompatible Seed Hashes. 0, -27700
+apache/druid,https://github.com/apache/druid/issues/10034,Druid 0.13.0 use insert-segment-to-db got an error
+apache/druid,https://github.com/apache/druid/issues/10028,Return consistent HTTP 504 error responses for query timeouts
+apache/druid,https://github.com/apache/druid/issues/9993,index_parallel task fails if segmentGranularity has a timeZone
+apache/druid,https://github.com/apache/druid/issues/9955,possiblyResetDataSourceMetadata() slows down the kinesis index task
+apache/druid,https://github.com/apache/druid/issues/9932,SQL query returns StackOverFlowError
+apache/druid,https://github.com/apache/druid/issues/9913,kafka indexing tasks may stall when checkpointing during coordinator restart
+apache/druid,https://github.com/apache/druid/issues/9912,coordinator restart during index task shutdown may cause succesful task to get failed
+mockito/mockito,https://github.com/mockito/mockito/issues/1979,mockStatic throws StackOverflowError when mocking Arrays.
+mockito/mockito,https://github.com/mockito/mockito/issues/1962,Ambiguous method overloading - Spring RestTemplate
+mockito/mockito,https://github.com/mockito/mockito/issues/1935,InjectMocks have naive approach in choosing the multiple constructors with same size 
+mockito/mockito,https://github.com/mockito/mockito/issues/1930,Kotlin Result seems to behave weirdly when trying to be returned with Mockito
+mockito/mockito,https://github.com/mockito/mockito/issues/1925,@Mock does not work with Maven and Java 13
+mockito/mockito,https://github.com/mockito/mockito/issues/1917,MockitoExtension cannot handle multiple generic mocks with different parameterized type
+mockito/mockito,https://github.com/mockito/mockito/issues/1916,Mockito failed to run on Windows 10 with OpenJDK v11
+mockito/mockito,https://github.com/mockito/mockito/issues/1902,`clearInlineMocks` not working with `MockitoJUnit.rule()`
+mockito/mockito,https://github.com/mockito/mockito/issues/1899,Issue with initializing inline Byte Buddy mock maker on IBM java
+mockito/mockito,https://github.com/mockito/mockito/issues/1873,StrictStubs incorrectly detects PotentialStubbingProblem for Spy's
+mockito/mockito,https://github.com/mockito/mockito/issues/1872,Mock Fails Only in Debug Mode When Using mock-maker-inline
+mockito/mockito,https://github.com/mockito/mockito/issues/1871,@InjectMocks can't inject both @Autowired and constructor dependencies
+mockito/mockito,https://github.com/mockito/mockito/issues/1851,Unable to verify when spying on kotlin class
+mockito/mockito,https://github.com/mockito/mockito/issues/1830,@After teardown, sleep 100ms, tests all passed
+mockito/mockito,https://github.com/mockito/mockito/issues/1822,Second call to "when" fails when mocking a Spring @Cacheable
+mockito/mockito,https://github.com/mockito/mockito/issues/1768,StrictStubs doesn't work with @org.junit.experimental.categories.Category
+mockito/mockito,https://github.com/mockito/mockito/issues/1741,org.mockito.exceptions.misusing.UnfinishedStubbingException thrown on void method
+mockito/mockito,https://github.com/mockito/mockito/issues/1724,Use of anyString() leads to UnnecessaryStubbingException
+mockito/mockito,https://github.com/mockito/mockito/issues/1722,Mocked Kotlin function can not return Array when it also takes a list as parameter
+mockito/mockito,https://github.com/mockito/mockito/issues/1654,MockitoRule doesn't match MockitoJUnitRunner behavior with UnnecessaryStubbingException
+mockito/mockito,https://github.com/mockito/mockito/issues/1636,UnfinishedStubbingException raised with deep stubs when using the do* style stubbing
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2187,ClassNotFoundException in Headless mode w/ jdk11
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2177,NPE OverridePrototypeAction
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5945,Non-resolvable parent POM : Failure to find io.confluent:common:pom:6.1.0-beta200715032424
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5906,Subscript Expressions in GROUP BY not valid as non-aggregate SELECT function arguments
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5791,Issue creating stream "Caused by: key" in 0.10.0
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5663,Test harness test failed: Expected <N> records but it was <1>
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5577,Unknown Topic Issue while running Ksql-test-runner
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5197,ksqldb processors stop working 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5110,KSql Fails in FreeBSD/RocksDB/ librocksdbjni-freebsd64.so was not found inside JAR.
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4901,Escaped quote (in the beginning of clause) causes an issue during table creation
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4757,Terminate running stream - Server v<unknown> located at http://ksqldb-server:8088
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4737,ksqlDB CLI burps (unclean exit) when cancelling query
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4664,UDF with return type Struct throws NullPointerException
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4565,ksql server is down after start. 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4385,Support joins on windowed sources where repartitioning needed
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4316,Trying to select from K-SQL stream created o kafka topic produces end-of-input error
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4183,helm-chart configurationOverrides not accepting integer values 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4163,KSQL 5.4.0-beta1 - select of date type, result is missing logical type definition
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4139,Lagging partitions
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3998,ksqldb 0.6 - SELECT not working
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3977,Concat with double-pipe symbol (||) error with ksqlDB 0.6
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3882,/bin/ksql command return log4j error "log4j:ERROR Could not read configuration file"
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3654,TimeoutException: Topic pageviews not present in metadata after 60000 ms 
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/554,JSONObject constructor Issue arising from the #552 pull request
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/551,Implement opt/get methods for accumulated values
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1293,Exception when trying to open vault
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1276,No UncaughtExceptionHandler/onFailed method for Tasks
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1273,[WebDav] Folder listing corrupt shows as empty, Dokany OK
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1264,Java error when I try to create a safe at OneDrive
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1236,Reveal Vault does not open Dolphin window in KDE
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1221,Custom mount point fails
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1206,Cannot Open Vault after Migration: "osascript: can't open default scripting component."
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1199,1.5.4: java.nio.file.NoSuchFileException: ...: Vault not initialized
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1174,Can't open vault in v1.5.3. Migration fails.
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1172,Unable to unlock with custom path if targeted directory opened in Explorer
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1156,Crashing in MacOs Catalina with JavaFX error
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1140,Migrating to 1.5.x fails due to file being accessed by another process
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1053,ARM64 build not working
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/1010,Issue revealing drive Kubuntu
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/985,Cryptomator running with native wayland
+cryptomator/cryptomator,https://github.com/cryptomator/cryptomator/issues/815,Unable to mount using custom mount point
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1598,consumer can not work(get http error:500) when protocol choose hessian, but choose dubbo it works
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1584,Error creating bean with name 'ribbonServerList' defined in class path resource [com/alibaba/cloud/nacos/ribbon/NacosRibbonClientConfiguration.class]
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1498,spring-cloud-alibaba-dependencies 2.2.0.RELEASE PropertySourcesUtils ClassNotFoundException
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1420,Failed to stop bean 'inputBindingLifecycle'
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1165,springcloud microservice register nacos error
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1103,java.lang.IllegalStateException: No such extension org.apache.dubbo.registry.RegistryFactory by name spring-cloud
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1061,The spring-cloud-starter-stream-rabbit jar package conflict with spring-cloud-starter-alibaba-nacos-discovery
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1037,spring cloud alibaba dubbo with hessian protocal error
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/794,Error creating bean with name 'targeterBeanPostProcessor' defined 
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/760,nacos register hessian server status error
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3526,Request JSON body sent from client not matching with request  JSON body received on Server.
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3516,Caused by: org.jvnet.mimepull.MIMEParsingException: Reached EOF, but there is no closing MIME boundary
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3476,File Upload failed when Content-Disposition has a "filename*" field
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3438,Race Condition in HttpClientImpl.getConnectionForRequest, ConnectionManager.getConnection
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3436,`listenMulticastGroup` doesn't work with a null NetworkInterface
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3399,Timeout Errors
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3299,JsonArray constructor produces objects that violate `equals` contract
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3134,Can not close file when upload file body without the end delimiter
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3121,[DNS] Issues with GraalVM and Alpine Linux
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3062,vertx PumpImpl has one problem
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3059,“Unexpected exception in route” with POST using Content-Type:application/x-www-form-urlencoded (Content-Type:application/json working fine)
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3021,Thread blocked for long time
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3010,setTimer() from worker thread
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2971,javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2797,The uri() method and the absoluteURI() method in HttpServerRequestImpl are inconsistent in judging the legality of uri.
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2770,java.io.IOException: Too many open files
+cglib/cglib,https://github.com/cglib/cglib/issues/166,enhancer.createClass() has problem
+cglib/cglib,https://github.com/cglib/cglib/issues/156,new Enhancer() Caused by: java.lang.IllegalArgumentException
+cglib/cglib,https://github.com/cglib/cglib/issues/151,ImmutableBean.create(bean) conflicts with FastClass.create(Bean.class) 
+cglib/cglib,https://github.com/cglib/cglib/issues/145,can not support android
+cglib/cglib,https://github.com/cglib/cglib/issues/135,Cglib Could not support nested proxy？
+cglib/cglib,https://github.com/cglib/cglib/issues/119,5 tests failing when building with openjdk-9
+cglib/cglib,https://github.com/cglib/cglib/issues/116,Help debugging ClassFormatError
+cglib/cglib,https://github.com/cglib/cglib/issues/112,Allow generated proxies to be non-final
+cglib/cglib,https://github.com/cglib/cglib/issues/103,ArrayIndexOutOfBoundsException in AbstractClassGenerator.create(Object key) (line 166)
+cglib/cglib,https://github.com/cglib/cglib/issues/100,Help with NPE in Spring-Bundled Version of cglib
+cglib/cglib,https://github.com/cglib/cglib/issues/42,JavaFX properties enhancing
+joelittlejohn/jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo/issues/1120,Support a property with name 'additionalProperties' in the schema
+joelittlejohn/jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo/issues/1059,Generation of uncompilable code
+joelittlejohn/jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo/issues/847,Exclude additionalProperties from hashCode and equals
+joelittlejohn/jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo/issues/830,StringIndexOutOfBoundsException
+joelittlejohn/jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo/issues/816,Extending a definition to override a property in the parent's schema
+joelittlejohn/jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo/issues/793,Exception while resolving reference with #
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/554,JSONObject constructor Issue arising from the #552 pull request
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/551,Implement opt/get methods for accumulated values
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5945,Non-resolvable parent POM : Failure to find io.confluent:common:pom:6.1.0-beta200715032424
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5906,Subscript Expressions in GROUP BY not valid as non-aggregate SELECT function arguments
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5791,Issue creating stream "Caused by: key" in 0.10.0
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5663,Test harness test failed: Expected <N> records but it was <1>
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5577,Unknown Topic Issue while running Ksql-test-runner
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5197,ksqldb processors stop working 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5110,KSql Fails in FreeBSD/RocksDB/ librocksdbjni-freebsd64.so was not found inside JAR.
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4901,Escaped quote (in the beginning of clause) causes an issue during table creation
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4757,Terminate running stream - Server v<unknown> located at http://ksqldb-server:8088
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4737,ksqlDB CLI burps (unclean exit) when cancelling query
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4664,UDF with return type Struct throws NullPointerException
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4565,ksql server is down after start. 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4385,Support joins on windowed sources where repartitioning needed
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4316,Trying to select from K-SQL stream created o kafka topic produces end-of-input error
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4183,helm-chart configurationOverrides not accepting integer values 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4163,KSQL 5.4.0-beta1 - select of date type, result is missing logical type definition
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4139,Lagging partitions
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3998,ksqldb 0.6 - SELECT not working
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3977,Concat with double-pipe symbol (||) error with ksqlDB 0.6
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3882,/bin/ksql command return log4j error "log4j:ERROR Could not read configuration file"
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/3654,TimeoutException: Topic pageviews not present in metadata after 60000 ms 
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3526,Request JSON body sent from client not matching with request  JSON body received on Server.
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3516,Caused by: org.jvnet.mimepull.MIMEParsingException: Reached EOF, but there is no closing MIME boundary
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3476,File Upload failed when Content-Disposition has a "filename*" field
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3438,Race Condition in HttpClientImpl.getConnectionForRequest, ConnectionManager.getConnection
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3436,`listenMulticastGroup` doesn't work with a null NetworkInterface
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3399,Timeout Errors
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3299,JsonArray constructor produces objects that violate `equals` contract
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3134,Can not close file when upload file body without the end delimiter
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3121,[DNS] Issues with GraalVM and Alpine Linux
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3062,vertx PumpImpl has one problem
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3059,“Unexpected exception in route” with POST using Content-Type:application/x-www-form-urlencoded (Content-Type:application/json working fine)
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3021,Thread blocked for long time
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/3010,setTimer() from worker thread
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2971,javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2797,The uri() method and the absoluteURI() method in HttpServerRequestImpl are inconsistent in judging the legality of uri.
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2770,java.io.IOException: Too many open files
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2651,SSH incompatible event loop when NativeTransport set to true
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2641,Exception not propagated from VertxHandler to WebSocket exceptionHandler
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2616,ErrorDataDecoderException: Bad string
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2541,Exception not handled in some cases
+eclipse-vertx/vert.x,https://github.com/eclipse-vertx/vert.x/issues/2423,Unable to disable file caching in 3.5.1 in intelliJ IDEA
+lightbend/config,https://github.com/lightbend/config/issues/681,HOME Directory environment variable not resolved
+lightbend/config,https://github.com/lightbend/config/issues/670,parseMap can't handle keys with special characters
+lightbend/config,https://github.com/lightbend/config/issues/647,Substituting environment variables fails when merging objects
+lightbend/config,https://github.com/lightbend/config/issues/644,parseMap rejects non-conflicting paths with overlapping prefix
+lightbend/config,https://github.com/lightbend/config/issues/627,UTFDataFormatException in SerializedConfigValue.scala:314
+lightbend/config,https://github.com/lightbend/config/issues/622,Unnecessary repetition in an error message
+lightbend/config,https://github.com/lightbend/config/issues/617,"expecting a close parentheses" when actually needs a brace
+lightbend/config,https://github.com/lightbend/config/issues/605,Include works incorrectly when using parseFile method and no-parent relative path
+lightbend/config,https://github.com/lightbend/config/issues/595,"include required()" is not working
+lightbend/config,https://github.com/lightbend/config/issues/594,include file not working for relative path (for non-default conf)
+lightbend/config,https://github.com/lightbend/config/issues/593,No configuration setting found for key 'roles.“test@test.com”' 
+lightbend/config,https://github.com/lightbend/config/issues/592,ConfigFactory.parseString() and -.load() behave differently on variable substitution withFallBack
+lightbend/config,https://github.com/lightbend/config/issues/586,Mixin substitutions affect resolution inside of the object being mixed into, causing errors
+lightbend/config,https://github.com/lightbend/config/issues/581,Any way to avoid "x: 0.00001" to "x=1.0E-5" 
+lightbend/config,https://github.com/lightbend/config/issues/544,ConfigException$Missing thrown when config is in resource folder
+lightbend/config,https://github.com/lightbend/config/issues/480,UUID key can't be parsed correctly
+lightbend/config,https://github.com/lightbend/config/issues/428,NoSuchMethodError
+lightbend/config,https://github.com/lightbend/config/issues/424,Json key bug
+lightbend/config,https://github.com/lightbend/config/issues/360,Including a properties file uses the wrong parser
+lightbend/config,https://github.com/lightbend/config/issues/345,`truefoo` does not parse as `Boolean(true)` `UnquotedString(foo)`
+lightbend/config,https://github.com/lightbend/config/issues/331,Improper error messages
+lets-blade/blade,https://github.com/lets-blade/blade/issues/393,Cannot start application on Mac
+lets-blade/blade,https://github.com/lets-blade/blade/issues/391,Exception in thread "main" java.lang.NoClassDefFoundError: com/blade/Blade
+lets-blade/blade,https://github.com/lets-blade/blade/issues/385,Templates cannot be read if application is packaged in far jar (OpenLiberty)
+lets-blade/blade,https://github.com/lets-blade/blade/issues/374,Template path not recognized
+lets-blade/blade,https://github.com/lets-blade/blade/issues/171,Got an exception while uploading a file
+alibaba/nacos,https://github.com/alibaba/nacos/issues/3437,The Raft Group [nacos_config] did not find the Leader node
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2804,IBM JDK
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2732,Failed to obtain JDBC Connection; Mysql version is 5.7.x
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2590,Unable to start web server nacos1.2.1
+alibaba/nacos,https://github.com/alibaba/nacos/issues/2555,nacos 1.2.0. dom name can only have these characters: 0-9a-zA-Z-._
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/253,Error in opening jar package
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/251,Unable to open file
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/248,Luyten ClassCastException at MethodSignature
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/247,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/246, Invalid BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/237,Find all OOB when trying to search obfuscated jar.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/236,Find All Error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/235, Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/234,a error happened
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/233,null
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/231,BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/229,A error happened when i saving codes
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/228,java.lang.IllegalArgumentException: MALFORMED
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/225,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/224,Find all error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/222,Installation errors
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/217,Open Luyten Error (JDK 11.0.4)
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/216,luyten-0.5.4 crash in macOS 10.13
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/210,AST Error:  java.lang.IllegalArgumentException: Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/209,Problem When Opening .Class File
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/207,java.lang.IllegalStateException: Invalid BootstrapMethods attribute entry
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2187,ClassNotFoundException in Headless mode w/ jdk11
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2177,NPE OverridePrototypeAction
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2153,"Windows x86 PE RTTI Analyzer" OOB
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2095,java api: CParser adding/parsing comments
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2012,runtime exception importing 16 bit ne dll
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2009,Structure Editor NPE
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1989,Uncaught Exception
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1965,NullPointerException when launching the Python interpreter
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1958,There is no way to select the Motorola 6809 from the Import/Language dialog, but there is 6809 support in the code for the 6805
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1947,Specifying a non-zero base address in the file import options causes autoanalyze error
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1877,"pos cannot be less than zero" during ext4 import
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1860,Archiving a large project fails with FileNotFoundException
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1806,GCC Exception Handler doesn't respect execute flag
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1796,Copy/Cut --> Paste uncaught exception
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1790,RTTI1Model should not enforce the presence of a RTTI3Model.
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1789,Concerns with extensions using the program database
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1779,Cannot open 68000:BE:32:Coldfire project created with Ghidra 9.0.1 using Ghidra 9.1.2
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1770,GnuDemangler IOExceptions with External Options
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1713,Ghidra fails to import NE executable: "RuntimeException: NE - ResourceType - name lookup required - 1838"
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1706,NullPointerException in front end GUI while browsing around in file selection window.
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1660,Null pointer exception during Import File while navigating between folders
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1598,consumer can not work(get http error:500) when protocol choose hessian, but choose dubbo it works
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1584,Error creating bean with name 'ribbonServerList' defined in class path resource [com/alibaba/cloud/nacos/ribbon/NacosRibbonClientConfiguration.class]
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba/issues/1498,spring-cloud-alibaba-dependencies 2.2.0.RELEASE PropertySourcesUtils ClassNotFoundException
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2187,ClassNotFoundException in Headless mode w/ jdk11
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2177,NPE OverridePrototypeAction
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2153,"Windows x86 PE RTTI Analyzer" OOB
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2095,java api: CParser adding/parsing comments
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2012,runtime exception importing 16 bit ne dll
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2009,Structure Editor NPE
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1989,Uncaught Exception
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1965,NullPointerException when launching the Python interpreter
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1958,There is no way to select the Motorola 6809 from the Import/Language dialog, but there is 6809 support in the code for the 6805
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1947,Specifying a non-zero base address in the file import options causes autoanalyze error
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1877,"pos cannot be less than zero" during ext4 import
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1860,Archiving a large project fails with FileNotFoundException
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1806,GCC Exception Handler doesn't respect execute flag
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1796,Copy/Cut --> Paste uncaught exception
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1790,RTTI1Model should not enforce the presence of a RTTI3Model.
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1789,Concerns with extensions using the program database
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1779,Cannot open 68000:BE:32:Coldfire project created with Ghidra 9.0.1 using Ghidra 9.1.2
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/1770,GnuDemangler IOExceptions with External Options
+netty/netty,https://github.com/netty/netty/issues/10446,Failed to execute goal org.fusesource.hawtjni:maven-hawtjni-plugin:1.14:build (build-native-lib) on project netty-transport-native-kqueue: build failed: org.apache.maven.plugin.MojoExecutionException: ./configure failed with exit code: 1
+netty/netty,https://github.com/netty/netty/issues/10436,Http2: server rejects request with valid :protocol pseudo header
+netty/netty,https://github.com/netty/netty/issues/10435,HttpClient Connection Reuse
+netty/netty,https://github.com/netty/netty/issues/10429,Send queue backlog causes memory leak
+netty/netty,https://github.com/netty/netty/issues/10426,Possible memory leak when set maxPendingTasks=100
+netty/netty,https://github.com/netty/netty/issues/10416,Http2: writing valid PRIORITY frame fails with misleading error message
+netty/netty,https://github.com/netty/netty/issues/10413,io.netty.handler.ssl.Conscrypt.isConscryptEngine(SSLEngine engine) may throw the NullPointerException
+netty/netty,https://github.com/netty/netty/issues/10411,Epoll client channel throws NotYetConnectedException on connect failure
+netty/netty,https://github.com/netty/netty/issues/10406,Netty Client
+mockito/mockito,https://github.com/mockito/mockito/issues/1979,mockStatic throws StackOverflowError when mocking Arrays.
+mockito/mockito,https://github.com/mockito/mockito/issues/1962,Ambiguous method overloading - Spring RestTemplate
+mockito/mockito,https://github.com/mockito/mockito/issues/1935,InjectMocks have naive approach in choosing the multiple constructors with same size 
+mockito/mockito,https://github.com/mockito/mockito/issues/1930,Kotlin Result seems to behave weirdly when trying to be returned with Mockito
+mockito/mockito,https://github.com/mockito/mockito/issues/1925,@Mock does not work with Maven and Java 13
+mockito/mockito,https://github.com/mockito/mockito/issues/1917,MockitoExtension cannot handle multiple generic mocks with different parameterized type
+mockito/mockito,https://github.com/mockito/mockito/issues/1916,Mockito failed to run on Windows 10 with OpenJDK v11
+mockito/mockito,https://github.com/mockito/mockito/issues/1902,`clearInlineMocks` not working with `MockitoJUnit.rule()`
+mockito/mockito,https://github.com/mockito/mockito/issues/1899,Issue with initializing inline Byte Buddy mock maker on IBM java
+mockito/mockito,https://github.com/mockito/mockito/issues/1873,StrictStubs incorrectly detects PotentialStubbingProblem for Spy's
+mockito/mockito,https://github.com/mockito/mockito/issues/1872,Mock Fails Only in Debug Mode When Using mock-maker-inline
+mockito/mockito,https://github.com/mockito/mockito/issues/1871,@InjectMocks can't inject both @Autowired and constructor dependencies
+mockito/mockito,https://github.com/mockito/mockito/issues/1851,Unable to verify when spying on kotlin class
+mockito/mockito,https://github.com/mockito/mockito/issues/1830,@After teardown, sleep 100ms, tests all passed
+mockito/mockito,https://github.com/mockito/mockito/issues/1822,Second call to "when" fails when mocking a Spring @Cacheable
+mockito/mockito,https://github.com/mockito/mockito/issues/1768,StrictStubs doesn't work with @org.junit.experimental.categories.Category
+mockito/mockito,https://github.com/mockito/mockito/issues/1741,org.mockito.exceptions.misusing.UnfinishedStubbingException thrown on void method
+mockito/mockito,https://github.com/mockito/mockito/issues/1724,Use of anyString() leads to UnnecessaryStubbingException
+mockito/mockito,https://github.com/mockito/mockito/issues/1722,Mocked Kotlin function can not return Array when it also takes a list as parameter
+mockito/mockito,https://github.com/mockito/mockito/issues/1654,MockitoRule doesn't match MockitoJUnitRunner behavior with UnnecessaryStubbingException
+mockito/mockito,https://github.com/mockito/mockito/issues/1636,UnfinishedStubbingException raised with deep stubs when using the do* style stubbing
+cglib/cglib,https://github.com/cglib/cglib/issues/166,enhancer.createClass() has problem
+cglib/cglib,https://github.com/cglib/cglib/issues/156,new Enhancer() Caused by: java.lang.IllegalArgumentException
+cglib/cglib,https://github.com/cglib/cglib/issues/151,ImmutableBean.create(bean) conflicts with FastClass.create(Bean.class) 
+cglib/cglib,https://github.com/cglib/cglib/issues/145,can not support android
+cglib/cglib,https://github.com/cglib/cglib/issues/135,Cglib Could not support nested proxy？
+cglib/cglib,https://github.com/cglib/cglib/issues/119,5 tests failing when building with openjdk-9
+cglib/cglib,https://github.com/cglib/cglib/issues/116,Help debugging ClassFormatError
+cglib/cglib,https://github.com/cglib/cglib/issues/112,Allow generated proxies to be non-final
+cglib/cglib,https://github.com/cglib/cglib/issues/103,ArrayIndexOutOfBoundsException in AbstractClassGenerator.create(Object key) (line 166)
+cglib/cglib,https://github.com/cglib/cglib/issues/100,Help with NPE in Spring-Bundled Version of cglib
+cglib/cglib,https://github.com/cglib/cglib/issues/42,JavaFX properties enhancing
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3212,[Bug] Changing TB_SERVER_WS_TENANT_RATE_LIMITS_MAX_QUEUE_PER_WS_SESSION to "0"
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard/issues/3207,RestClient 3.1.0 |  getTimeseries() | Map has no value for 'limit'.
+apache/dubbo-spring-boot-project,https://github.com/apache/dubbo-spring-boot-project/issues/719,a app is both provider and consumer,but throw exception when start up
+apache/dubbo-spring-boot-project,https://github.com/apache/dubbo-spring-boot-project/issues/548,Need example for annotation based service with 'callback parameter' method
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9060,Running Error for using Causal Convolution1D
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9056,NativeImageLoader wrong RGB loading of Mat
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9050,LocallyConnected2D NullPointerException array values at LocallyConnected2D.java:216
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9049,LocallyConnected2D hashCode() NullPointerException
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9044,Cannot remove array: not found in ArrayCache
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9038,Errors occur when training word2vec on spark
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9032,EXCEPTION_ACCESS_VIOLATION (0xc0000005) during training
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9028,defineInputs(int numInputs) in SDVertexParams is a NoOp
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9016,libnd4j: weighted_cross_entropy_with_logits backprop op implementation required
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9015,weightedCrossEntropyWithLogits doesn't accept null weights
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9014,Not able to import unet based model
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/9000,Failed to import keras seq2seq model to DL4J with Merge Vertex error
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8990,Keras Model Import Does Not Support Class Handles for Loss Functions
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8989,DL4J Keras model import: custom Keras layers hould throw useful exception if missing constructor
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8988,ND4J/DL4J/SameDiff: ISchedule implementation JSON issue
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8982,DL4J: MobileNet v2 keras model issue
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8966,Extremely slow load time on LSTM Keras model
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8956,CentersHolder not serializable
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8951,Android Model Loading Error with 1.0.0-beta6
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8946,SameDiff: TF import - NonMaxSuppressionV4/V5 issue
+eclipse/deeplearning4j,https://github.com/eclipse/deeplearning4j/issues/8944,Version Check doesn't work with Spring Boot Uberjar packaging
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25546,Bean creation fails with StackOverflowError after upgrading from 5.1.13 to 5.2.7
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25541,Webflux Routing DSL's onError filters execute in unexpected order
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25529,Reactor's withVirtualTime breaks cached contexts in tests
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25518,@Value 
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25516,Resource filename is null when using Spring WebClient
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25509,Easy way to ignore charset on Content-Type
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25505,1st instance of aop proxy leaks its advices
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25492,Using RestTemplate to submit the data to the rest endpoint throwing StackOverflow Error 
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25490,ResponseEntity<StreamingResponseBody> Exception Handling Issues
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25467,Throw RestClientResponseException instead of RestClientException in HttpMessageConverterExtractor when an error occurs during unmarshalling
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25466,Spring Beans does not properly unwrap value if the value is java.util.Optional
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25462,Global and Local logging
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25444,UriComponentsBuilder have problems with squere brakcets "[ ]"
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25438,Reporting wrong  SpelEvaluation EL1004E when an exception is happening in the method
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25432,@MockBean(answer: org.mockito.Answers, ...) should be interface to allow custom answers
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25388,SimpleJdbcInsert needs backticks in table name for in MariaDB
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25382,WARNING: Illegal reflective access by org.springframework.cglib.core.ReflectUtils
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25346,@ControllerAdvice on bean factory method does not work due overly restrictive target of the ControllerAdvice annotation
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25336,ExceptionHandler questionable behavior exposing exception causes
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25327,Support jackson @JsonProperty while convert String to Enum
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/issues/25213,Spring WebFlux "ResourceLeakDetector:LEAK"
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2187,ClassNotFoundException in Headless mode w/ jdk11
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2177,NPE OverridePrototypeAction
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2153,"Windows x86 PE RTTI Analyzer" OOB
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra/issues/2095,java api: CParser adding/parsing comments
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2863,Cannot install package because of dependencies
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2860,Stack overflow using a grammar that has an extraneous | in a token definition
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2788,antlr4 java.lang.NullPointerException  Antlr 4 4.8
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2778,ANTLR cannot generate PHP code as of version 4.7.1
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2767,NullPointerException in Java with small grammar
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2750,[C# Antlr4.Standard.Runtime] Runtime throws NullReferenceException
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2732,UnsupportedOperationException while generating code for large grammars.
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2702,cpp target: NoviableException caused a coredump error
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2691,Javascript: Error.captureStackTrace is not a function in Firefox
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2677,java.lang.NullPointerException at org.antlr.v4.runtime.misc.Utils.escapeWhitespace
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2659,When I use -atn param, an java.lang.IllegalArgumentException occur here.
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2651,adaptivePredict function throw Exception
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2617,Javascript target and "start" rule element label
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2581,Visual Studio 2019 Antlr project gets error CS1061: 'string' does not contain a definition for 'compareTo' in CPP14Parser.cs
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2528,Go target, ErrorStrategy, broken interface
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2526,unable parse grammer
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2478,Go runtime: Exception types should satisfy the Error interface
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2334,[Cpp] derive antlr4::RuntimeException from std::runtime_error
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2296,Circular grammar inclusion causes stack overflow in the tool.
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2277,sempred executed outside the scope of RuleContext
+antlr/antlr4,https://github.com/antlr/antlr4/issues/2275,Exception when running the AntlrDT Tools Suite for Eclipse
+cglib/cglib,https://github.com/cglib/cglib/issues/166,enhancer.createClass() has problem
+cglib/cglib,https://github.com/cglib/cglib/issues/156,new Enhancer() Caused by: java.lang.IllegalArgumentException
+cglib/cglib,https://github.com/cglib/cglib/issues/151,ImmutableBean.create(bean) conflicts with FastClass.create(Bean.class) 
+cglib/cglib,https://github.com/cglib/cglib/issues/145,can not support android
+cglib/cglib,https://github.com/cglib/cglib/issues/135,Cglib Could not support nested proxy？
+cglib/cglib,https://github.com/cglib/cglib/issues/119,5 tests failing when building with openjdk-9
+cglib/cglib,https://github.com/cglib/cglib/issues/116,Help debugging ClassFormatError
+cglib/cglib,https://github.com/cglib/cglib/issues/112,Allow generated proxies to be non-final
+cglib/cglib,https://github.com/cglib/cglib/issues/103,ArrayIndexOutOfBoundsException in AbstractClassGenerator.create(Object key) (line 166)
+cglib/cglib,https://github.com/cglib/cglib/issues/100,Help with NPE in Spring-Bundled Version of cglib
+cglib/cglib,https://github.com/cglib/cglib/issues/42,JavaFX properties enhancing
+elastic/elasticsearch,https://github.com/elastic/elasticsearch/issues/60757,[CI] WatcherYamlRestIT.test {p0=watcher/usage/10_basic/Test watcher usage stats output}
+elastic/elasticsearch,https://github.com/elastic/elasticsearch/issues/60712,Projecct build error: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target 
+apache/druid,https://github.com/apache/druid/issues/10222,Where clause fails on projection of a union subquery
+apache/druid,https://github.com/apache/druid/issues/10215,Indexer throwing java.lang.IllegalStateException
+apache/druid,https://github.com/apache/druid/issues/10212,Cannot start druid when using with gcs-connector.jar and druid-parquet-extensions
+apache/druid,https://github.com/apache/druid/issues/10209,Kerberos GSS errors reported when an indexation task map-reduce job fails
+apache/druid,https://github.com/apache/druid/issues/10207,druid-time-min-max ingestion error
+apache/druid,https://github.com/apache/druid/issues/10206,partial_index_generic_merge tasks fail immediately without logs (index_parallel)
+apache/druid,https://github.com/apache/druid/issues/10205,Filtered aggregation fails with IllegalStateException when druid.generic.useDefaultValueForNull=false
+apache/druid,https://github.com/apache/druid/issues/10204,IndexOutOfBoundsException in RelDecorrelator.decorrelateQuery
+apache/druid,https://github.com/apache/druid/issues/10154,NPE from CompactionTask
+apache/druid,https://github.com/apache/druid/issues/10153,Too many open files error
+apache/druid,https://github.com/apache/druid/issues/10140,The Group by, Order by scenarios have issues with reference field aliases
+apache/druid,https://github.com/apache/druid/issues/10108,DruidSegmentReader uses wrong timestampSpec column
+apache/druid,https://github.com/apache/druid/issues/10077,build druid-0.18.1 failed
+apache/druid,https://github.com/apache/druid/issues/10042,com.yahoo.sketches.SketchesArgumentException: Incompatible Seed Hashes. 0, -27700
+apache/druid,https://github.com/apache/druid/issues/10034,Druid 0.13.0 use insert-segment-to-db got an error
+apache/druid,https://github.com/apache/druid/issues/10028,Return consistent HTTP 504 error responses for query timeouts
+apache/druid,https://github.com/apache/druid/issues/9993,index_parallel task fails if segmentGranularity has a timeZone
+apache/druid,https://github.com/apache/druid/issues/9955,possiblyResetDataSourceMetadata() slows down the kinesis index task
+apache/druid,https://github.com/apache/druid/issues/9932,SQL query returns StackOverFlowError
+apache/druid,https://github.com/apache/druid/issues/9913,kafka indexing tasks may stall when checkpointing during coordinator restart
+apache/druid,https://github.com/apache/druid/issues/9912,coordinator restart during index task shutdown may cause succesful task to get failed
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3599,Returning loop variables inside a object property getter causes crash
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3593,Internal compiler error due to unexpected variable (which is not part of the program)
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3592,java.lang.IllegalStateException: Object method calls can not be decomposed
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3591,Internal functions can capture implementation names by using $jscomp$
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3545,BROWSER_WITH_TRANSFORMED_PREFIXES causes NullPointerException when imported module is not found
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3511,NullPointerException during compilation of cocos2d application
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3484,java.lang.NullPointerException: NAME goog 12
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3480,NullPointerException when mismatching type is a primitive type in templates
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3381,NullPointerException when inlining literals in dead code
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3377,NullPointerException when defining function named "arguments" inside arrow function
+google/closure-compiler,https://github.com/google/closure-compiler/issues/3376,UnsupportedOperationException when using variable "arguments" inside arrow function body
+sparklemotion/nokogiri,https://github.com/sparklemotion/nokogiri/issues/1751,JRuby XSLT failure
+sparklemotion/nokogiri,https://github.com/sparklemotion/nokogiri/issues/1520,JRuby Nokogiri raises ConcurrentModificationException for some HTML
+apache/druid,https://github.com/apache/druid/issues/10222,Where clause fails on projection of a union subquery
+apache/druid,https://github.com/apache/druid/issues/10215,Indexer throwing java.lang.IllegalStateException
+apache/druid,https://github.com/apache/druid/issues/10212,Cannot start druid when using with gcs-connector.jar and druid-parquet-extensions
+apache/druid,https://github.com/apache/druid/issues/10209,Kerberos GSS errors reported when an indexation task map-reduce job fails
+apache/druid,https://github.com/apache/druid/issues/10207,druid-time-min-max ingestion error
+apache/druid,https://github.com/apache/druid/issues/10206,partial_index_generic_merge tasks fail immediately without logs (index_parallel)
+apache/druid,https://github.com/apache/druid/issues/10205,Filtered aggregation fails with IllegalStateException when druid.generic.useDefaultValueForNull=false
+apache/druid,https://github.com/apache/druid/issues/10204,IndexOutOfBoundsException in RelDecorrelator.decorrelateQuery
+apache/druid,https://github.com/apache/druid/issues/10154,NPE from CompactionTask
+apache/druid,https://github.com/apache/druid/issues/10153,Too many open files error
+apache/druid,https://github.com/apache/druid/issues/10140,The Group by, Order by scenarios have issues with reference field aliases
+apache/druid,https://github.com/apache/druid/issues/10108,DruidSegmentReader uses wrong timestampSpec column
+apache/druid,https://github.com/apache/druid/issues/10077,build druid-0.18.1 failed
+apache/druid,https://github.com/apache/druid/issues/10042,com.yahoo.sketches.SketchesArgumentException: Incompatible Seed Hashes. 0, -27700
+apache/druid,https://github.com/apache/druid/issues/10034,Druid 0.13.0 use insert-segment-to-db got an error
+apache/druid,https://github.com/apache/druid/issues/10028,Return consistent HTTP 504 error responses for query timeouts
+apache/druid,https://github.com/apache/druid/issues/9993,index_parallel task fails if segmentGranularity has a timeZone
+apache/druid,https://github.com/apache/druid/issues/9955,possiblyResetDataSourceMetadata() slows down the kinesis index task
+apache/druid,https://github.com/apache/druid/issues/9932,SQL query returns StackOverFlowError
+apache/druid,https://github.com/apache/druid/issues/9913,kafka indexing tasks may stall when checkpointing during coordinator restart
+apache/druid,https://github.com/apache/druid/issues/9912,coordinator restart during index task shutdown may cause succesful task to get failed
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1421,HtmlTreeBuilderState issues
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1404,Some HTML input causes NullPointerException in HtmlTreeBuilderState
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1400,java.lang.IllegalArgumentException: Request has already been read (with .parse())
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1363,Can't find h3 items
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1355,Build failure on master
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1350,Regression introduced when upgrading from 1.12.1 to 1.13.1
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1266,Unexpected end of ZLIB input stream
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1199,Jsoup 1.11.3 Connection.Response Authorization doesn't work with JRE 1.8.0_201
+lightbend/config,https://github.com/lightbend/config/issues/681,HOME Directory environment variable not resolved
+lightbend/config,https://github.com/lightbend/config/issues/670,parseMap can't handle keys with special characters
+lightbend/config,https://github.com/lightbend/config/issues/647,Substituting environment variables fails when merging objects
+lightbend/config,https://github.com/lightbend/config/issues/644,parseMap rejects non-conflicting paths with overlapping prefix
+lightbend/config,https://github.com/lightbend/config/issues/627,UTFDataFormatException in SerializedConfigValue.scala:314
+lightbend/config,https://github.com/lightbend/config/issues/622,Unnecessary repetition in an error message
+lightbend/config,https://github.com/lightbend/config/issues/617,"expecting a close parentheses" when actually needs a brace
+lightbend/config,https://github.com/lightbend/config/issues/605,Include works incorrectly when using parseFile method and no-parent relative path
+lightbend/config,https://github.com/lightbend/config/issues/595,"include required()" is not working
+lightbend/config,https://github.com/lightbend/config/issues/594,include file not working for relative path (for non-default conf)
+lightbend/config,https://github.com/lightbend/config/issues/593,No configuration setting found for key 'roles.“test@test.com”' 
+lightbend/config,https://github.com/lightbend/config/issues/592,ConfigFactory.parseString() and -.load() behave differently on variable substitution withFallBack
+lightbend/config,https://github.com/lightbend/config/issues/586,Mixin substitutions affect resolution inside of the object being mixed into, causing errors
+lightbend/config,https://github.com/lightbend/config/issues/581,Any way to avoid "x: 0.00001" to "x=1.0E-5" 
+lightbend/config,https://github.com/lightbend/config/issues/544,ConfigException$Missing thrown when config is in resource folder
+lightbend/config,https://github.com/lightbend/config/issues/480,UUID key can't be parsed correctly
+lightbend/config,https://github.com/lightbend/config/issues/428,NoSuchMethodError
+lightbend/config,https://github.com/lightbend/config/issues/424,Json key bug
+lightbend/config,https://github.com/lightbend/config/issues/360,Including a properties file uses the wrong parser
+lightbend/config,https://github.com/lightbend/config/issues/345,`truefoo` does not parse as `Boolean(true)` `UnquotedString(foo)`
+lightbend/config,https://github.com/lightbend/config/issues/331,Improper error messages
+apache/dubbo,https://github.com/apache/dubbo/issues/6544,Questions about the onConnect and Ondisconnect methods
+apache/dubbo,https://github.com/apache/dubbo/issues/6503,protocol check hessian consumer can not  consume
+apache/dubbo,https://github.com/apache/dubbo/issues/6488,spring cloud with dubbo: stop dubbo app, shutdown hook exception

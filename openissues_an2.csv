@@ -1,0 +1,226 @@
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6653,Deck Picker Task Cancellation: ConcurrentModificationException
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6650,_walkingCount - NullPointerException
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6646,Feature request: App action to trigger synchronization
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6644,NoteEditor - CardTemplatePreviewer - ArrayIndexOutOfBoundsException
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6639,Decks.isValidDeckName is named poorly and does not fully validate
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6633,Alter card reschedule undo cancel on memory pressure to be by type
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6628,BasicImageFieldController - getUriForFile -  Failed to find configured root that contains /
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6622,Adding an image to a card overwrites the file name
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6614,Night Mode Copy Paste Menu Issue
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6599,"Collection not opened" - Deck With Invalid Deck Options
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6588,Flag on new Anki card corrupts database in Ankidroid
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6562,Missing scheduling information in deck overview with scheduler V2
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6552,"Notify when" notifications don't trigger 
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6542,[QUESTION] Gamification Sounds Upon Answering Correctly
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6537,Alter diff-match-patch dependency to supported one
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6535,Change log is light when using dark mode
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6532,CI: Use Travis workspaces to speed up build
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6528,Add a README to the AnkiDroid folder on phones: ensure users don't delete backups
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6520,Improve sync between devices
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6518,UI can be accessed while syncing
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6512,A functional suggestion  （want to move the "preview" option to the top bar button in the card browser）
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4594,Type mismatch bugs in three files
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4592,Use of allowScanningByMediaScanner is deprecated starting with Android Q
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4590,Deprecated use of primaryClip property of ClipboardManager
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4588,Audio stops when minimised
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4587,Search bar won't accept an URL containing a colon
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4585,add WebAuthn (FIDO2) support to Firefox Klar / Focus
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4584,Tabs changing to about:blank after minimizing app
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4581,External links with schemes starting with data, about,... are not asking for redirection
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4580,Can quick add custom autocomplete URL even when autocomplete is off
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4578,Tabs: Implement the old Tabs Tray from Fenix into Focus
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4577,Integrate HTTPS Everywhere
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4574,Add Quick Toggle for turning off/on JavaScript to three circle menu
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4573,Black screen when returning browser to front
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4572,Create native UI for about screen etc.
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4571,Use library for displaying list of licenses
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4567,Insecure connection bypass depends on Javascript
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4566,Searching for a string containing non-English letters has false positives
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4565,Integrate feature-media component
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4561,Integrate the downloads component
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4559,Crash when re-entering Firefox Focus
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4557,[A11y] Extra information when user is present on the "Search or enter address"
+minetest/minetest,https://github.com/minetest/minetest/issues/10164,Add per-ItemStack point range
+minetest/minetest,https://github.com/minetest/minetest/issues/10163,Add '/lua' command under 'server' priv
+minetest/minetest,https://github.com/minetest/minetest/issues/10161,Player is getting damaged when damage is disabled.
+minetest/minetest,https://github.com/minetest/minetest/issues/10158,Entity moveresult: collides = true but collisions = {}
+minetest/minetest,https://github.com/minetest/minetest/issues/10156,Can't launch the game / MacOS 10.15
+minetest/minetest,https://github.com/minetest/minetest/issues/10153,Voxel Area Drawtype for Entities
+minetest/minetest,https://github.com/minetest/minetest/issues/10149,Minetest installed by flatpak shows incorrect worlds path
+minetest/minetest,https://github.com/minetest/minetest/issues/10147,Renaming worlds using menu
+minetest/minetest,https://github.com/minetest/minetest/issues/10142,Engine crashing when trying to change camera view client side.
+minetest/minetest,https://github.com/minetest/minetest/issues/10139,Allow physical = false for players
+minetest/minetest,https://github.com/minetest/minetest/issues/10137,"Exit to menu" button causes Minetest to close/crash
+minetest/minetest,https://github.com/minetest/minetest/issues/10132,Texture Packs - Add support for overriding special_tiles
+minetest/minetest,https://github.com/minetest/minetest/issues/10130,Minetest gui doesnt work when built from source in Mac os x
+minetest/minetest,https://github.com/minetest/minetest/issues/10127,Make Node Metadata fields private by default
+minetest/minetest,https://github.com/minetest/minetest/issues/10126,Reshowing formspec prevents receiving events
+minetest/minetest,https://github.com/minetest/minetest/issues/10125,find_nodes_in_area() node property search
+minetest/minetest,https://github.com/minetest/minetest/issues/10124,'is_visible = false' property doesn`t make an attached player invisible in third-person view
+minetest/minetest,https://github.com/minetest/minetest/issues/10121,'minetest.is_nan' is broken!
+minetest/minetest,https://github.com/minetest/minetest/issues/10120,First-class support for luasockets (if installed) in mod API
+minetest/minetest,https://github.com/minetest/minetest/issues/10116,[Meta] Transparent donations: Liberapay account for Minetest
+minetest/minetest,https://github.com/minetest/minetest/issues/10114,Crafting: Support for item stacks with count higher than one
+nextcloud/android,https://github.com/nextcloud/android/issues/6444,NC19: Internal Links won't open the Android App any more
+nextcloud/android,https://github.com/nextcloud/android/issues/6443,Auto upload doesn't work on Android for already uploaded photos.
+nextcloud/android,https://github.com/nextcloud/android/issues/6440,Bonjour g on call
+nextcloud/android,https://github.com/nextcloud/android/issues/6437,Preview View shows Sorting/grid/list element and FAB while it shouldn't
+nextcloud/android,https://github.com/nextcloud/android/issues/6436,Folder too big crash
+nextcloud/android,https://github.com/nextcloud/android/issues/6433,App crashes every ~2 seconds, rendering the phone unusable for most things
+nextcloud/android,https://github.com/nextcloud/android/issues/6432,Use themed color during login
+nextcloud/android,https://github.com/nextcloud/android/issues/6428,Changes to file does not update list
+nextcloud/android,https://github.com/nextcloud/android/issues/6417,Not auto uploading and app (android) crashing every time i turn auto upload on or off a folder 
+nextcloud/android,https://github.com/nextcloud/android/issues/6416,Nextcloud crash during synchronizing
+nextcloud/android,https://github.com/nextcloud/android/issues/6413,Network rejoin crash
+nextcloud/android,https://github.com/nextcloud/android/issues/6412,Public Share folder with editing permission without option to upload files
+nextcloud/android,https://github.com/nextcloud/android/issues/6411,Quickly changing between Photos to All files causes UI mismatch
+nextcloud/android,https://github.com/nextcloud/android/issues/6410,Photo loading spinner does not stop
+nextcloud/android,https://github.com/nextcloud/android/issues/6409,All files shows "No files here" until manual refresh
+nextcloud/android,https://github.com/nextcloud/android/issues/6406,auto upload of older files deletes the creation date of those files
+nextcloud/android,https://github.com/nextcloud/android/issues/6405,Upload large mp4 finished with error message
+nextcloud/android,https://github.com/nextcloud/android/issues/6387,Unable to see downloaded files in apps other than Nextcloud.
+nextcloud/android,https://github.com/nextcloud/android/issues/6370,Video does not play 
+nextcloud/android,https://github.com/nextcloud/android/issues/6360,Follow up on "hide on scrolling"
+nextcloud/android,https://github.com/nextcloud/android/issues/6334,Nextcloud locally deletes synced folder without reason
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/909,Drag shadow dimensions must be positive
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/908,StringIndexOutOfBoundsException
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/902,Notes are not grouped by category
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/890,Grid view: no padding top on Recycler View
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/868,Replace dialog with seekbar in settings
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/847,In-Note search crashes on Android 4.4
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/834,Sometimes error appears when editing note via note widget
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/761,Consistent timeouts when syncing
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/615,Request for an accountless mode
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/564,"TransactionTooLargeException: data parcel size 552920 bytes" with large note on activity lost focus
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/522,Overflow-menu contains "search" when searchview is open 🔎
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/401,Add toc/contents/index view of markdown headers
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/352,Swipe left/right to switch between edit and preview mode
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/330,Moce cursor when scrolling
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/231,Share a note with another account
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/161,Prevent editing of unsynchronized notes
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9416,Make man_made=pier routable
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9415,Wheelchair base profile - avoid stairs and add special pictograms
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9414,[Feature request] add automatic track recording
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9413,Latin names are transliterated into Latin without diacritics
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9412,crash immediately after start of app
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9409,[Feature request] add online tile map source
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9404,Flooding: Skadovsk
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9402,Mapillary joins Facebook
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9401,Track recording turns on the screen 
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9400,Japanese placenames are transliterated as Chinese
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9398,Include power tower tag as a poi
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9397,Disable autozoom to below data level
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9396,Poroshkino is found twice
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9395,Display user relevant PT route related information
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9393,Use name:sr-Latn for transliteration
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9392,Map conflicts between different versions of the same area should be resolved
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9390,Check that Navigation Setting for deviation works 
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9389,Dangerous U-turn
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9388,GPX navigation options not available for OsmAnd generated tracks
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9387,POIs with tourism:alpine_hut displayed only on high zoom levels
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9386,Screen control doesn't seem to work
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/167,Add a way to delete older backups
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/166,Athao2403@gmail.com
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/164,Support installation of ordinary apk files.
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/158,Allow multiple single APK to be exported as .apk file
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/157,Install applications with data in internal memory
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/154,Allow internal file picker to install from external drive
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/151,Backup as zip
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/150,Installation option within the system.
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/143,After uninstalling the application installed in shizuku mode, the newly signed same application cannot be installed
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/100,Support for APKMirror .apkm files
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1173,Loop reminders behavior seems a little excessive to me
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1172,change background of day in MonthView 
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1170,Contact Birthday not correct when changing timezone
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1161,Visually differentiate All-Day events
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1153,6.9.4 add many "loading" entries in Gadget
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1150,CalDAV syncs are always flagged "manual", causing issue with DAVx5
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1143,Check a biweekly recurring glitch
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1141,Overflow in "Display events from the past" function with high months numbers
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1139,The monthly widget sometimes makes my phone crash
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1131,List view widget flickers
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1122,Check some time zone related shifting issues with syncing via Zoho
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1110,Frequent CPU spikes lead to battery drain
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1108,handling status event cancelled
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1104,Add support for alternate calendar 
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1102,bug: lose the last repeat event
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1095,Some RRULEs not parsed correctly
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1083,Recurring items are shown wrong
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1082,[Feature request] repeat alarm sound after user defined amount of time
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1081,[bug] Februar 29th
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1078,Notifications raised twice sometimes
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1076,Weekly View: Collapse Many All-day Events
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1873,[Bug] Share videos
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1872,Fullscreen cache adds JPEG artifacts that aren't in the image
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1870,Batch renaming causing files to go missing permanently
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1868,Poor visibility on landscape video view.
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1867,Font size doesn't change dynamically when toggle landscape/portrait.
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1865,when user double click on photo list or grid item of main activity, it shows two times of photoActivity
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1864,Portrait photo only displays rotated to landscape; landscape only displays portrait
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1843,[Feature request] Lock swipe directions to phone orientation
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1828,Videos fail to appear when wanting to share within an app
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1825,Add Automatic image enhancement in the Editor.
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1822,Allow changing the order of bottom action buttons
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1819,Allow changing jpeg quality when resizing
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1817,When unpausing videos, the first frame is shown for a brief second
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1816,Enable croping with custom dimensions in pixels
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1805,photo saved on sdcard do not appear
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1800,"Use app in English" works only partially
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1791,Can't edit images provided by WhatsApp
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1789,Images fails to load when decrypted via OpenKeychain
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1787,Deleting files from recycle bin does actually not delete them
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1784,Make image opening animation smoother
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1783,Dissable image highlighting by keyboard navigation in fullscreen
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/414,[Feature request] GPS rollover
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/412,Getting java.io.FileNotFoundException: http://demo.traccar.org:5055 
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/409,Downgraded 5.20 to 5.18 because of battery draining
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/408,hidden app stop working in few days
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/405,Never goes to background
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/404,sound for shortcuts
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/403,The status of the switch on and off the service
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/401,Enable SOS shortcut
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/398,High battery usage caused by wake lock in version v5.19
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/395,React Native / Flutter
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/394,[Feature request] Number of satellites
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/390,[v5.17] Issue #367 (not sending location updates) is not fixed
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/389,Help with Adding fields
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/388,Android client multiple URL support 
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/385,"High" accuracy drains battery and never reports, "medium" accuracy too inaccurate
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/384,android.os.DeadObjectException android.os.BinderProxy.transactNative
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/380,send last known location if lost fix
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/367,Android Client not sending updates
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/364,getProvider() test
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/362,SSL issues
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/355,Feature request: Custom URL / config or QR code to pre-configure the Traccar Client
+nextcloud/android,https://github.com/nextcloud/android/issues/6444,NC19: Internal Links won't open the Android App any more
+nextcloud/android,https://github.com/nextcloud/android/issues/6443,Auto upload doesn't work on Android for already uploaded photos.
+nextcloud/android,https://github.com/nextcloud/android/issues/6440,Bonjour g on call
+nextcloud/android,https://github.com/nextcloud/android/issues/6437,Preview View shows Sorting/grid/list element and FAB while it shouldn't
+nextcloud/android,https://github.com/nextcloud/android/issues/6436,Folder too big crash
+nextcloud/android,https://github.com/nextcloud/android/issues/6433,App crashes every ~2 seconds, rendering the phone unusable for most things
+nextcloud/android,https://github.com/nextcloud/android/issues/6432,Use themed color during login
+nextcloud/android,https://github.com/nextcloud/android/issues/6428,Changes to file does not update list
+nextcloud/android,https://github.com/nextcloud/android/issues/6417,Not auto uploading and app (android) crashing every time i turn auto upload on or off a folder 
+nextcloud/android,https://github.com/nextcloud/android/issues/6416,Nextcloud crash during synchronizing
+nextcloud/android,https://github.com/nextcloud/android/issues/6413,Network rejoin crash
+nextcloud/android,https://github.com/nextcloud/android/issues/6412,Public Share folder with editing permission without option to upload files
+nextcloud/android,https://github.com/nextcloud/android/issues/6411,Quickly changing between Photos to All files causes UI mismatch
+nextcloud/android,https://github.com/nextcloud/android/issues/6410,Photo loading spinner does not stop
+nextcloud/android,https://github.com/nextcloud/android/issues/6409,All files shows "No files here" until manual refresh
+nextcloud/android,https://github.com/nextcloud/android/issues/6406,auto upload of older files deletes the creation date of those files
+nextcloud/android,https://github.com/nextcloud/android/issues/6405,Upload large mp4 finished with error message
+nextcloud/android,https://github.com/nextcloud/android/issues/6387,Unable to see downloaded files in apps other than Nextcloud.
+nextcloud/android,https://github.com/nextcloud/android/issues/6370,Video does not play 
+nextcloud/android,https://github.com/nextcloud/android/issues/6360,Follow up on "hide on scrolling"
+nextcloud/android,https://github.com/nextcloud/android/issues/6334,Nextcloud locally deletes synced folder without reason
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2053,RemoteViews for widget update exceeds maximum bitmap memory usage
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2051,Problems with visibility option
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2021,None-square SVG files don't render correctly
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2011,In a Webview a datalist element does not open a drop-down list with a click on a down-arrow. In the basicui everything works fine.
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1841,Unable to scroll sub items in Grafana chart displays
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1829,Video widget doesn't work with basic auth
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1808,WebViewFragment: NotFoundException String resource ID #0x2040003
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1806,KotlinNullPointerException in queryServerProperties()
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1805,IllegalStateException: FragmentManager is already executing transactions
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1802,Video widget crash
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1801,IllegalStateException: Restarter must be created only during owner's initialization stage

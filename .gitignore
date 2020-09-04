@@ -1,0 +1,11 @@
+venv/
+.idea/
+tmp/
+__pycache__/
+db/
+
+*.log
+*.zip
+
+!result/*.log
+testfiles/*

@@ -1,0 +1,191 @@
+dropbox/hackpad,https://github.com/dropbox/hackpad/issues/64,net.appjet.bodylock.JSRuntimeException
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/559,Change HashMap to ConcurrentHashMap
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/554,JSONObject constructor Issue arising from the #552 pull request
+stleary/JSON-java,https://github.com/stleary/JSON-java/issues/551,Implement opt/get methods for accumulated values
+netty/netty,https://github.com/netty/netty/issues/10436,Http2: server rejects request with valid :protocol pseudo header
+netty/netty,https://github.com/netty/netty/issues/10426,Possible memory leak when set maxPendingTasks=100
+netty/netty,https://github.com/netty/netty/issues/10411,Epoll client channel throws NotYetConnectedException on connect failure
+netty/netty,https://github.com/netty/netty/issues/10406,Netty Client
+netty/netty,https://github.com/netty/netty/issues/10376,Upgrade to JC Tools 3.0 changes queue behavior when compiled natively on GraalVM.
+netty/netty,https://github.com/netty/netty/issues/10365,reactor.core.Exceptions$ReactiveException: io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection timed out
+netty/netty,https://github.com/netty/netty/issues/10351,DiskAttribute may cause memory leak
+netty/netty,https://github.com/netty/netty/issues/10324,HttpPostRequestDecoder exception
+netty/netty,https://github.com/netty/netty/issues/10293,Android client connection timeout
+netty/netty,https://github.com/netty/netty/issues/10281,Error in Upload tests after updating netty 4.1.49 -> 4.1.50 (HttpPostMultipartRequestDecoder regression)
+netty/netty,https://github.com/netty/netty/issues/10277,[Improvement] Add Http status as a separate field in exception on not 101 HTTP response code during web socket handshake
+netty/netty,https://github.com/netty/netty/issues/10238,http request json data contains '=' will appear  io.netty.handler.codec.http.multipart.HttpPostRequestDecoder$ErrorDataDecoderException: java.io.IOException: Unable to create temporary file
+netty/netty,https://github.com/netty/netty/issues/10114,mvn test failed on netty-transport-native-epoll
+netty/netty,https://github.com/netty/netty/issues/10098,LengthFieldBasedFrameDecoder fails with TooLongFrameException
+netty/netty,https://github.com/netty/netty/issues/9988,No instances of java.net.Inet6Address are allowed in the image heap as this class should be initialized at image runtime.
+netty/netty,https://github.com/netty/netty/issues/9918,Native image generation fails with Netty 4.1.44.Final
+netty/netty,https://github.com/netty/netty/issues/9882,io.netty.util.IllegalReferenceCountException on random HTTP requests
+netty/netty,https://github.com/netty/netty/issues/9793,UDP client observing packet loss
+netty/netty,https://github.com/netty/netty/issues/9669,IllegalStateException: complete already on notifyListener / operationComplete
+netty/netty,https://github.com/netty/netty/issues/9604,Difference between FixedChannelPool and SimpleChannelPool
+netty/netty,https://github.com/netty/netty/issues/9291,Close future completes before the pipeline is cleaned up
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1980,java.lang.InstantiationException: net.opentsdb.query.processor.groupby.GroupByFactory$GroupByJobPool
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1974,Hbase issue post cloudera upgrade
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1938,java.lang.NullPointerException: null(opentsdb-2.4.0-1.noarch)
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1901,Opentsdb on Mapr error: Deferred.handleContinuation] - callback=shutdown HBase client@1898325501 returned Deferred@2075809815
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1897,Query exception
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1885,Hit java.util.ConcurrentModificationException more than daily when doing frequent /api/stats/query requests
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1877,There have some BadRequestException When I query rolluped data
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1769,The tsd.query.skip_unresolved_tagvs= true configuration only applies to the API /query interface, which still reports an error
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1768,mutil_get not aviliable in opentsdb2.4.0
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1752,Why I use hbase as storage instead of  cassandra
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1653,Put data error, "Should never happen!"
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1636,opentsdb 2.3 log  error
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1622,OpenTSDB 2.4.0 behaving weird and create millions of non used Tagv UIDs
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1607,Gnuplot error
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1570,Opentsdb 2.2 query historical data error
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1569,Opentsdb 2.2 cannot querying historical data
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1512,Open TSDB - No such name for 'metrics': 'test'
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1501,2.4 Error when avg downsampling rollup data using api/query endpoint
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1490,tsdb scan --import help wrong
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1483,Get BadRequestException When query rolluped data.
+OpenTSDB/opentsdb,https://github.com/OpenTSDB/opentsdb/issues/1476,/query/last  not work
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/6082,OpenJDK 64-Bit Server VM warning: Ignoring option UseConcMarkSweepGC; support was removed in 14.0
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/6069,ksql logs topic data if serializing records from print topic fails
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/6064,KSQLDB fails to start if ssl.keystore.type=pkcs12 instead of ssl.keystore.type=PKCS12
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/6063,KSQLDb java client  giving error while connecting -This endpoint is only available when using HTTP2
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/6059,KsqlTester does not allow for DDL evolution
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/6058,KsqlTester should allow inserts into sources without DML
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/6044,Could not create topic _confluent-ksql-dswes-ccpclstransient_4787618039516871800_1597734035766-Aggregate-groupby-repartition.
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5970,DROP STREAM .. DELETE TOPIC fails if schema is already soft deleted
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5663,Test harness test failed: Expected <N> records but it was <1>
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5577,Unknown Topic Issue while running Ksql-test-runner
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5377,Freshly cloned repository is not building
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5197,ksqldb processors stop working 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/5110,KSql Fails in FreeBSD/RocksDB/ librocksdbjni-freebsd64.so was not found inside JAR.
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4901,Escaped quote (in the beginning of clause) causes an issue during table creation
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4800,REST API - fails if CS + CT combined (Failed to guarantee existence of topic / Replication factor must be larger than 0)
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4757,Terminate running stream - Server v<unknown> located at http://ksqldb-server:8088
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4737,ksqlDB CLI burps (unclean exit) when cancelling query
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4664,UDF with return type Struct throws NullPointerException
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4565,ksql server is down after start. 
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4396,Group By of windowed sources results in UnsupportedOperationException
+confluentinc/ksql,https://github.com/confluentinc/ksql/issues/4385,Support joins on windowed sources where repartitioning needed
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/620,$.concat() function with filters in parameters doesn't work
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/615,Using function in path with GsonMappingProvider throws exception
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/612,map function not honouring Option.SUPPRESS_EXCEPTIONS
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/605,JsonPrimitive cannot be cast to java.lang.Boolean
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/597,AllEvaluator throws exception evaluating the right JSON
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/590,Problem with exponents
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/568,Getting java.lang.ClassCastException: class org.json.JSONArray cannot be cast to class java.util.List
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/549,Results do not match other implementations
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/537,renameKey throws PathNotFoundException even if SUPPRESS_EXCEPTIONS is set
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/497,NullPointerException with JSON containing empty object using deep scanning path using JsonOrgJsonProvider.
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/487,AS_PATH_LIST result contains invalid paths
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/483,JsonPath.parse(json)  removes new line from the JSON payload.
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/460,StringIndexOutOfBoundsException if the query contains single quote. 
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/459,asNoJsonPath and wildcard jsonpath
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/457,PathNotFoundException in case of null value
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/456,For PathNotFoundException, don't throw at the source if suppression is enabled, for big performance gain when paths not being found is the common case.
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/441,ClassCastException in ValueNode$JsonNode.asValueListNode
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/413,delete jsonPath from class com.google.gson.JsonObject not active
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/409,readSignificantSubSequence should probably not throw exceptions
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/399,JSONPath compilation fails if a path with filter expression is used as an argument to a function
+json-path/JsonPath,https://github.com/json-path/JsonPath/issues/396,Performance issue because of PathNotFoundException
+raphw/byte-buddy,https://github.com/raphw/byte-buddy/issues/857,Various problems with @Advice.OnMethodEnter/Exit when used on constructors
+raphw/byte-buddy,https://github.com/raphw/byte-buddy/issues/802,Unable to install agent with IntelliJ bundled SDK on MacOS
+oracle/graal,https://github.com/oracle/graal/issues/2779,Gradle kapt build issue with svm
+oracle/graal,https://github.com/oracle/graal/issues/2774,Start Java-Program from Eclipse causes ClassNotFoundExceptions
+oracle/graal,https://github.com/oracle/graal/issues/2758,Error creating native image for Micronaut and AWS Dynamo DB without `--report-unsupported-elements-at-runtime`
+oracle/graal,https://github.com/oracle/graal/issues/2754,Jersey HK2 giving dynamic proxy error while running native image
+oracle/graal,https://github.com/oracle/graal/issues/2745,GraalVM native image kerberos authentication issue: failed to store/retrieve AccessControlContext to/from stack  
+oracle/graal,https://github.com/oracle/graal/issues/2740,LibraryFactory.createDispatched does not throw IllegalArgumentException for negative limit
+oracle/graal,https://github.com/oracle/graal/issues/2736,Fail to build Micronaut Micrometer (CloudWatch) native image without --report-unsupported-elements-at-runtime: DeletedElementException
+oracle/graal,https://github.com/oracle/graal/issues/2735,Native image compilation of org.bouncycastle.math.raw.Nat256.mul asserts
+oracle/graal,https://github.com/oracle/graal/issues/2729,Using Java AWT Fonts gives unsatisfiedlinkerror while running native image
+oracle/graal,https://github.com/oracle/graal/issues/2727,native-image failing on aarch64 with: Cannot run program ... PosixDirectives ... error=13, Permission Denied
+oracle/graal,https://github.com/oracle/graal/issues/2723,Error: Incompatible change of initialization policy for java.io.RandomAccessFile: trying to change RERUN for JDK native code support via JNI to BUILD_TIME super type of org.apache.fontbox.ttf.BufferedRandomAccessFile
+oracle/graal,https://github.com/oracle/graal/issues/2721,Method called from static initializer not @Substitute'd
+oracle/graal,https://github.com/oracle/graal/issues/2720,Analysis fails because field of TypeInfoImpl has type incompatible with proxy of XmlSeeAlso
+oracle/graal,https://github.com/oracle/graal/issues/2719,java.xml resource refuses to be included in native-image
+oracle/graal,https://github.com/oracle/graal/issues/2715,Possible formatting directive from Object.toString() not escaped
+oracle/graal,https://github.com/oracle/graal/issues/2711,[native-image] StackOverflowError occurs when running a app using a shared library built using native-image
+oracle/graal,https://github.com/oracle/graal/issues/2707,Spring native image issue
+oracle/graal,https://github.com/oracle/graal/issues/2706,Spring native image issue (class jdk.vm.ci.services.Services not found)
+oracle/graal,https://github.com/oracle/graal/issues/2702,Exception in thread "main" java.time.DateTimeException: Unable to initialize HijrahCalendar: Hijrah-umalqura
+oracle/graal,https://github.com/oracle/graal/issues/2696,Native Image fails with Exception java.lang.ExceptionInInitializerError while using Jasper Report
+oracle/graal,https://github.com/oracle/graal/issues/2694,GraalVM-built native image does not support Unsafe.staticFieldOffset() method
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/253,Error in opening jar package
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/251,Unable to open file
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/248,Luyten ClassCastException at MethodSignature
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/247,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/246, Invalid BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/237,Find all OOB when trying to search obfuscated jar.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/236,Find All Error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/235, Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/234,a error happened
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/233,null
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/231,BootstrapMethods attribute entry
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/229,A error happened when i saving codes
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/228,java.lang.IllegalArgumentException: MALFORMED
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/225,Unable to open file!
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/224,Find all error
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/222,Installation errors
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/217,Open Luyten Error (JDK 11.0.4)
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/216,luyten-0.5.4 crash in macOS 10.13
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/210,AST Error:  java.lang.IllegalArgumentException: Node belongs to another tree.
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/209,Problem When Opening .Class File
+deathmarine/Luyten,https://github.com/deathmarine/Luyten/issues/207,java.lang.IllegalStateException: Invalid BootstrapMethods attribute entry
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1421,HtmlTreeBuilderState issues
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1404,Some HTML input causes NullPointerException in HtmlTreeBuilderState
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1400,java.lang.IllegalArgumentException: Request has already been read (with .parse())
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1363,Can't find h3 items
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1355,Build failure on master
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1350,Regression introduced when upgrading from 1.12.1 to 1.13.1
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1300,UnknownHostException for cyrillic url
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1289,NPE after replaceWith in NodeVisitor
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1278,Expose a public method to escape characters within an attribute
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1266,Unexpected end of ZLIB input stream
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1228,Create a setter method to sets Connection read timeout
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1199,Jsoup 1.11.3 Connection.Response Authorization doesn't work with JRE 1.8.0_201
+jhy/jsoup,https://github.com/jhy/jsoup/issues/981,W3CDom attribute names case sensitivity
+jhy/jsoup,https://github.com/jhy/jsoup/issues/887,Remove illegal XML characters when converting HTML to XML
+jhy/jsoup,https://github.com/jhy/jsoup/issues/838,jsoup again unable to parse an id with a hyphen in it
+jhy/jsoup,https://github.com/jhy/jsoup/issues/729,SelectorParseException when selecting direct children of a disjunction of queries
+jhy/jsoup,https://github.com/jhy/jsoup/issues/363,Support `file:/...` URLs for local testing
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1641,initializationFailTimeout doesn't appear to provide tolerance to unavailable DB
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1638,with default setting,the  matter happend ,why,without received from the server and sent  to the server was 60000 milliseconds  
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1635,HikariCP make connections over maximumPoolSize
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1633,Postgres schema gets reset to 'public' after releasing a connection
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1631,Closed connection on java.sql.SQLTimeoutException: The query has timed out
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1628,HikariDataSource shutdown unexpectedly
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1625,Hikari to support Kerberos
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1620,HikariPool-1 - Connection is not available, request timed out after 60000ms
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1614,Apparent connection leak detected - after upgrading hibernate and spring to version 5
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1611,Oracle Transaction Isolation Issue
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1609,JDK8 introduced HikariCP to start Jetty with an error.
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1603,Exception during asynchronous handling of setNetworkTimeout
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1598,IllegalAccessError when getting connection
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1591,java.sql.SQLTimeoutException: ORA-01013: user requested cancel of current operation
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1582,update module-info to mark optional dependencies as 'static'
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1580,Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30001ms
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1532,HikariCP serving up closed connections
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1526,HikariPool-2 - Connection is not available
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1516,HikariCP 3.4.1 + Java-11 Issue pool sealed issue
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1508,Performance problem of HikariCP under pressure
+brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP/issues/1507,Schema-based multitenancy: getting “java.sql.SQLException: No database selected” from time to time
+lets-blade/blade,https://github.com/lets-blade/blade/issues/393,Cannot start application on Mac
+lets-blade/blade,https://github.com/lets-blade/blade/issues/391,Exception in thread "main" java.lang.NoClassDefFoundError: com/blade/Blade
+lets-blade/blade,https://github.com/lets-blade/blade/issues/385,Templates cannot be read if application is packaged in far jar (OpenLiberty)
+lets-blade/blade,https://github.com/lets-blade/blade/issues/374,Template path not recognized
+lets-blade/blade,https://github.com/lets-blade/blade/issues/171,Got an exception while uploading a file
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1421,HtmlTreeBuilderState issues
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1404,Some HTML input causes NullPointerException in HtmlTreeBuilderState
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1400,java.lang.IllegalArgumentException: Request has already been read (with .parse())
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1363,Can't find h3 items
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1355,Build failure on master
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1350,Regression introduced when upgrading from 1.12.1 to 1.13.1
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1300,UnknownHostException for cyrillic url
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1289,NPE after replaceWith in NodeVisitor
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1278,Expose a public method to escape characters within an attribute
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1266,Unexpected end of ZLIB input stream
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1228,Create a setter method to sets Connection read timeout
+jhy/jsoup,https://github.com/jhy/jsoup/issues/1199,Jsoup 1.11.3 Connection.Response Authorization doesn't work with JRE 1.8.0_201
+jhy/jsoup,https://github.com/jhy/jsoup/issues/981,W3CDom attribute names case sensitivity
+jhy/jsoup,https://github.com/jhy/jsoup/issues/887,Remove illegal XML characters when converting HTML to XML
+jhy/jsoup,https://github.com/jhy/jsoup/issues/838,jsoup again unable to parse an id with a hyphen in it
+jhy/jsoup,https://github.com/jhy/jsoup/issues/729,SelectorParseException when selecting direct children of a disjunction of queries

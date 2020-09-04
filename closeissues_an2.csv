@@ -1,0 +1,411 @@
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6658,StackOverflow: Scheduler - _fillNew
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6655,Can't open collection - no card with id 0
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6651,[ACRA] We looked for deck "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies " and instead got deck "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies".
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6647,"Collection not opened" message after updating to v2.12 beta 4
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6645,2.13a1: doInBackgroundAnswerCard - RuntimeException
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6640,Do not work ( automatic display answer) in app andriod
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6636,[ACRA 2.12.0beta] Issue with deck casing
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6623,AnkiDroidJS.ankiGetNextTime4() still returns a value even when it should be empty after failing a card
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6612,NullPointerException - sync - sanityCheck - deckDueList - childMap
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6608,[ACRA] OutOfMemoryError - applyDeckPickerBackground
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6606,Certain import does not progress past 0%
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6591,Blue flag needs improvement - no contrast
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6580,"collection not opened"
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6576,DeckOptions: Enable Reminder Setting - Truncated text
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6551,Media Sync fails: images containing "+"
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6524,Reminder performance issue on app start
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6519,Switch of terminology in the card browser for clarity
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6516,Crash when using "check pronounciation" during reviews
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6513,Card Browser - Browse By Tag: Tags are Truncated
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6510,Parallel builds A and B can't be installed
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6507,"Copy note" destination is parent deck, not sub-deck
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4548,8.4.0 no APKs
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4539,Make sure safe browsing is setup correctly
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4536,Fix toolbar transition animation
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4529,Always initialize crash reporter
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4494,Logo  Size
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4475,Page Zoom-The bottom scroll bar is not displayed when horizontal scrolling on a page
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4458,Crash on launch
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4453,Reddit - Link to install apps doesn't work
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4448,Crash on startup
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4430,Dropdown menu is not working after opening a downloaded file
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4421,Firefox Focus is draining your battery
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4408,<select>s and Date pickers are broken
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4385,Error while bulding gradle file
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4375,APK for v8.0.20
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4372,focus:test disabling has no effect
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4371,The floating text toolbar is in the wrong place on GV 71
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4364,Make option to use WebView user facing
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4362,Pages do not load and all have an insecure connection
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4357,Firefox Focus v8.0.17 aarch64 crashes during start
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4343,Focus crashes when accessing bloomberg.com
+mozilla-mobile/focus-android,https://github.com/mozilla-mobile/focus-android/issues/4337,Update the tracking protection blocklists
+minetest/minetest,https://github.com/minetest/minetest/issues/10168,Mods increase loading time to 30 min
+minetest/minetest,https://github.com/minetest/minetest/issues/10159,Allow laying textures on mesh polygons bilaterally.
+minetest/minetest,https://github.com/minetest/minetest/issues/10157,Major memory leak when joining several worlds/servers without closing the client
+minetest/minetest,https://github.com/minetest/minetest/issues/10155,Setting the expected map block size to 1 in the client can crash a server
+minetest/minetest,https://github.com/minetest/minetest/issues/10154,Lit up particles.
+minetest/minetest,https://github.com/minetest/minetest/issues/10151,Minetest For iOS
+minetest/minetest,https://github.com/minetest/minetest/issues/10148,Press aux button to move fast while flying (configuration)
+minetest/minetest,https://github.com/minetest/minetest/issues/10146,Add a hotkey to toggle fullscreen mode
+minetest/minetest,https://github.com/minetest/minetest/issues/10138,Exiting a world in 5.3.0 crashes the game
+minetest/minetest,https://github.com/minetest/minetest/issues/10136,Jumping in 5.3.0 feels different than previous versions
+minetest/minetest,https://github.com/minetest/minetest/issues/10135,Deprecate HUD API, support HUD formspecs
+minetest/minetest,https://github.com/minetest/minetest/issues/10118,add a knockback effect on punch a player (all items)
+minetest/minetest,https://github.com/minetest/minetest/issues/10117,LuaEntity:get_yaw() randomly returns nil
+minetest/minetest,https://github.com/minetest/minetest/issues/10115,Minetest crafting inventory shouldn't be shipped by default
+minetest/minetest,https://github.com/minetest/minetest/issues/10109,Android water rendering issue
+minetest/minetest,https://github.com/minetest/minetest/issues/10107,Block breaking animation stuck after using pause menu
+minetest/minetest,https://github.com/minetest/minetest/issues/10104,Connected textures don't work properly
+minetest/minetest,https://github.com/minetest/minetest/issues/10102,Player model size becomes a gigantic if attach to object.
+minetest/minetest,https://github.com/minetest/minetest/issues/10098,Don't remove breath
+minetest/minetest,https://github.com/minetest/minetest/issues/10093,emissive texturing
+minetest/minetest,https://github.com/minetest/minetest/issues/10087,mod_channel doesn't work
+nextcloud/android,https://github.com/nextcloud/android/issues/6448,Statusbar overlaps toolbar in media preview activity
+nextcloud/android,https://github.com/nextcloud/android/issues/6432,Use themed color during login
+nextcloud/android,https://github.com/nextcloud/android/issues/6422,cannot copy/move files from subfolder to homefolder
+nextcloud/android,https://github.com/nextcloud/android/issues/6408,Startup bug
+nextcloud/android,https://github.com/nextcloud/android/issues/6394,Upon setup, credentials are requested not in-app, but in a webview, and never 'returned'
+nextcloud/android,https://github.com/nextcloud/android/issues/6386,Android Client frequent  crashes
+nextcloud/android,https://github.com/nextcloud/android/issues/6376,Crash
+nextcloud/android,https://github.com/nextcloud/android/issues/6371,Can't open csv from .contact Folder
+nextcloud/android,https://github.com/nextcloud/android/issues/6369,Icon of the text file in the dev version
+nextcloud/android,https://github.com/nextcloud/android/issues/6357,App dev crash - Photos
+nextcloud/android,https://github.com/nextcloud/android/issues/6348,Md
+nextcloud/android,https://github.com/nextcloud/android/issues/6340,Nextcloud
+nextcloud/android,https://github.com/nextcloud/android/issues/6339,Sharing public link is inconsistent
+nextcloud/android,https://github.com/nextcloud/android/issues/6325,Can not use nextcloud
+nextcloud/android,https://github.com/nextcloud/android/issues/6324,Crash of app
+nextcloud/android,https://github.com/nextcloud/android/issues/6323,Black primary color on Android dark theme
+nextcloud/android,https://github.com/nextcloud/android/issues/6313,Release 3.12.1
+nextcloud/android,https://github.com/nextcloud/android/issues/6312,Folder that is shared with another user wolnt open
+nextcloud/android,https://github.com/nextcloud/android/issues/6311,On phone star
+nextcloud/android,https://github.com/nextcloud/android/issues/6305,Nextcloud app crashed on anroid on autoupload
+nextcloud/android,https://github.com/nextcloud/android/issues/6302,Background work
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/907,Error connecting to self-hosted Nextcloud instance
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/904,"error_dialog_redirect" wrong translated (contains "Deck" instead of "Notes")
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/901,No Markdown inside words
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/891,One line notes have no content preview in notes overview
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/878,inconsistency in rendering of check boxes
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/871,App crashes when creating a new category for a note 
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/856,TokenMismatchException
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/850,cannot add an account
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/839,Cannot connect anymore
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/835,SSO error
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/829,App crashes on start
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/823,Crash on opening the App
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/822,Widget not working
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/821,Data loss after sync if note is opened via widget
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/820,Synchronization failed
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/818,Making a note favorite changes the file name to the first line
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/804,Highlight doesn't change when submit is clicked in search
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/799,App refusing to synchronise 
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/798,Notes does not honor app PIN
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/787,Synchronization failed
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/785,Loader doesn't stop
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9421,Change (or remove) translation for UK-Region "Greater London"
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9405,Not all hiking routes shown
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9391,Crash when trying to create poi
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9376,Bug: Categories not enabled to be displayed are not selectable
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9375,Bug: Update of color of category does not update the color of the place
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9367,GPX navigation settings missing
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9365,6 lanes are shown while there are only 3
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9356,WIkipedia layer / search broken
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9354,Technical debt: Settings refactor
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9335,[Feature request] Integration of MapAnt maps from Norway and Finland
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9326,Splitting maps for Canada
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9324,Transparent icons for Wikivoyage
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9314,Logging GPX in background (Android 8.0.0)
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9307,Wrong arrow width on route action drawing
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9296,[Feature request] Adding Acastus-Photon app as integrated part to find places
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9264,Support PT routing without ways in the route relation
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9259,Search tests issues
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9256,[bug] Can't save tracks/GPX anymore ("My Places")
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9254,avoid unpaved road setting issue
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9249,Newly edited POI is not moveable
+osmandapp/Osmand,https://github.com/osmandapp/Osmand/issues/9247,Zoom out and Quick action Button overlap
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/166,Athao2403@gmail.com
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/165,Support installation of ordinary apk files.
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/160,splîtapkz
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/156,Apks backup to apk not working
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/148,Bug by design: on R, if you grant the app install-permission, it will be forced-stopped
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/146,Won't install on aftv2
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/144,Set apk and apks path individually for exporting the apps
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/141,Failed to install Xiaomi Mobile
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/140,INSTALL_PARSE_FAILED_NO_CERTIFICATES Exit-code:4
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/137,User Interface Bug/Glitch
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/136,File picker option
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/135,Metadata Info addition
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/134,The scroll bar changes in the settings section
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/133,Replacement of default language split apk
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/132,Few UI related issues
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/131,Issue in files exported through SAI
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/128,3.10 failing to build on fdroid build server
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/126,Can't install multiple apks from external file picker
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/124,Error installing vancsd apk
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/123,Mark already existing and older apps
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/121,Suggestion for Export page
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1173,Loop reminders behavior seems a little excessive to me
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1164,Multi-week event not shown from second week on, in weekly view
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1163,Calendar only works with interval of hour
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1162,Weather Preview
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1160,An error occurred: java.lang.IllegalStateException
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1159,6.9.5 possible bug in Weekly View
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1158,[Feature request]: Abillity to select all search results
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1157,Pull-to-refresh doesn't work in weekly view
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1152,Monthly View
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1148,Check a Mothers Day kind of repetition rule glitch
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1144,Calendar is not visible in standalone configuration
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1134,Maximum limit of concurrent alarms
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1130,splash screen
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1113,Q: Optimizing Snooze Command
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1112,Q: Optimize snooze procedure
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1107,java.lang.NumberFormatException: For input string: "-31,1"
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1106,Lookout Security app identifies Calendar as surveillanceware
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1105,Add java version of the app
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1103,Repeating events: Updating future occurences only
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1096,Parse error when BYMONTHDAY is a list
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1094,[ Feature request ] Assign event to multiple synced calendars
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1876,Put sort option in toolbar with icon
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1875,First thing first it is not an issue. I am stuck on that code. so I am asking here. 
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1871,Slide&Quick double tap is not working
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1866,Add H-Scroll View of bottom_actions.xml.
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1863,[Feature Request] enhancements for photo editor
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1862,Retain favorites when upgrading to pro
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1861,Copy cat on Play Store
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1858,Full screen image loading
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1856,[Feature request] Enable reverse swipe direction
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1853,When deleting, cannot navigate to directory to allow permissions
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1852,Sort logic Bug
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1851,Simple Gallery becomes default gallery in Open Camera
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1848,Adding comment on a picture (in edit mode)
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1847,Add reverse image search yandex Google TinEye itp
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1845,impossible to compile in Linux
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1844,[feature request] add a button at top to allow group by taken date (daily/monthly)
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1839,Favorite Tag readable for Nextcloud
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1827,Run At Startup permission is unclear
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1826,Moving files to the recycle bin overwrites files with the same name without confirmation
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1821,Allow root access
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1815,Properly handle Map intent with ViewRanger
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/416,Trac
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/413,Hidden APP no longer hidden on Android Q
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/407,Dialing 8722... number is not opening the hidden app
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/402,New translations from Transifex
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/400,Select Position BUG
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/397,Error sending time (-1 hour)
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/396,Location not sent when using a VPN
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/391,5.17 Update on Lineageos stopps sending location updates
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/382,Send most recent position first
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/374,Error server
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/373,Not Background
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/370,when status turned on, two location update is sent instead of one
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/365,Configuring frequency from server response
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/361,Android Source code about retrieving random number generated
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/360,Building from source code on android studio
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/359,Reading of IMEI from the device and displaying it on the device ID 
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/358,reading the IMEI from the device and displaying it on the Device ID on startup
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/343,Api response empty
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/342,Api response empty
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/339,Google-Service.json is Missing
+traccar/traccar-client-android,https://github.com/traccar/traccar-client-android/issues/337,Trcaking service start automatically without calling start service on debug mode
+nextcloud/android,https://github.com/nextcloud/android/issues/6448,Statusbar overlaps toolbar in media preview activity
+nextcloud/android,https://github.com/nextcloud/android/issues/6432,Use themed color during login
+nextcloud/android,https://github.com/nextcloud/android/issues/6422,cannot copy/move files from subfolder to homefolder
+nextcloud/android,https://github.com/nextcloud/android/issues/6408,Startup bug
+nextcloud/android,https://github.com/nextcloud/android/issues/6394,Upon setup, credentials are requested not in-app, but in a webview, and never 'returned'
+nextcloud/android,https://github.com/nextcloud/android/issues/6386,Android Client frequent  crashes
+nextcloud/android,https://github.com/nextcloud/android/issues/6376,Crash
+nextcloud/android,https://github.com/nextcloud/android/issues/6371,Can't open csv from .contact Folder
+nextcloud/android,https://github.com/nextcloud/android/issues/6369,Icon of the text file in the dev version
+nextcloud/android,https://github.com/nextcloud/android/issues/6357,App dev crash - Photos
+nextcloud/android,https://github.com/nextcloud/android/issues/6348,Md
+nextcloud/android,https://github.com/nextcloud/android/issues/6340,Nextcloud
+nextcloud/android,https://github.com/nextcloud/android/issues/6339,Sharing public link is inconsistent
+nextcloud/android,https://github.com/nextcloud/android/issues/6325,Can not use nextcloud
+nextcloud/android,https://github.com/nextcloud/android/issues/6324,Crash of app
+nextcloud/android,https://github.com/nextcloud/android/issues/6323,Black primary color on Android dark theme
+nextcloud/android,https://github.com/nextcloud/android/issues/6313,Release 3.12.1
+nextcloud/android,https://github.com/nextcloud/android/issues/6312,Folder that is shared with another user wolnt open
+nextcloud/android,https://github.com/nextcloud/android/issues/6311,On phone star
+nextcloud/android,https://github.com/nextcloud/android/issues/6305,Nextcloud app crashed on anroid on autoupload
+nextcloud/android,https://github.com/nextcloud/android/issues/6302,Background work
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2087,Alarm clock data not sent to server without internet connection
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2076,Incomplete credits of used libraries
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2065,App crashes on push notification
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2043,Mobile application connection error
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2009,Remove 'Miscellaneous' heading under 'Settings'
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1980,http-lib: no more mjpeg-streams since android app 2.12.9-beta (maybe)
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1956,App crashes due to network issue
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1926,Color picker is always set to white when brightness is 0
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1901,'Push notification registration failed' Error
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1876,Cannot install app on Android 5 (error -504)
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1862,2 annoying refresh bugs
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1758,500 Error from server on beta version 2.11-3-beta of Android App.
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1754,Shortcuts don't work if settings are open
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1740,SSL Client certificates don't work in the webview widget
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1721,Alarmclock not working on Xiaomi MIUI (11)
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1714,MJPEG Stream is not visible
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1701,Alarm Clock and Call State not updating while openhab app reopen
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1698,Problem with items that have autoupdate=false
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1695,Home sceen widget does not work
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1687,GcmNetworkManager will be deprecated November 1, 2020
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1639,A frame inside another frame confuses the android app
+tasks/tasks,https://github.com/tasks/tasks/issues/1049,Davx integration
+tasks/tasks,https://github.com/tasks/tasks/issues/1037,iCloud: wrong username and password - working!
+tasks/tasks,https://github.com/tasks/tasks/issues/1036,changelog link is broken
+tasks/tasks,https://github.com/tasks/tasks/issues/1014,Detach from todoroo/astrid
+tasks/tasks,https://github.com/tasks/tasks/issues/1011,Smart sort ordering
+tasks/tasks,https://github.com/tasks/tasks/issues/1005,No recent APK in F-droid due to build failures
+tasks/tasks,https://github.com/tasks/tasks/issues/1003,Apk file
+tasks/tasks,https://github.com/tasks/tasks/issues/982,Repeating Task notify me daily but do not in fact repeat
+tasks/tasks,https://github.com/tasks/tasks/issues/978,Save task button and complete task button are too much similar, leading to using complete task instead of save
+tasks/tasks,https://github.com/tasks/tasks/issues/977,org.tasks out of date in f-droid repo - still ver. 8.11
+tasks/tasks,https://github.com/tasks/tasks/issues/975,Task sync with multiple accounts
+tasks/tasks,https://github.com/tasks/tasks/issues/974,Possibility to auto-save the unfinished task
+tasks/tasks,https://github.com/tasks/tasks/issues/973,Syncronisation accounts naming
+tasks/tasks,https://github.com/tasks/tasks/issues/971,upgrading from <8.x to a recent version fails
+tasks/tasks,https://github.com/tasks/tasks/issues/970,Export from Wunderlist to Tasks
+tasks/tasks,https://github.com/tasks/tasks/issues/967,Hiding lists (caldav sync) 
+tasks/tasks,https://github.com/tasks/tasks/issues/966,Unticked subtask not showing if main task is ticked
+tasks/tasks,https://github.com/tasks/tasks/issues/959,delete/manage tags
+tasks/tasks,https://github.com/tasks/tasks/issues/958,"Hide Until" date moves when a repeating task is marked complete
+tasks/tasks,https://github.com/tasks/tasks/issues/957,Search shows a task T times. T = number of tags it has
+tasks/tasks,https://github.com/tasks/tasks/issues/956,EteSync: task disappears when moving between lists
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1320,Selected default app for links not being remembered
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1319,Arabic language is missing
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1316,Translations are not synchronized with Crowdin
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1307,Better way to display user domain
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1305,View Home timeline of certain account
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1304,Can't like tweets
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1302,Feature request: support filtering list timeline
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1301,Feature request
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1300,Unable to like tweets 
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1298,Sensitive content enabled - Feature request type:feature-request
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1290,Even if you delete a saved search, it comes up again in the search bar. (It remains undeleted.)
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1289,Thread following seems broken
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1287,Navigation bar obscures media controls on Galaxy Note 9
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1269,[Feature request] Translation
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1261,Video controls covered by OS buttons
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1248,Fanfou support bug
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1247,Report tweet
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1242,Callback URL
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1241,Disable retweets in lists
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1236,cannot connect anymore my account after removing and reinstalling twidere
+TwidereProject/Twidere-Android,https://github.com/TwidereProject/Twidere-Android/issues/1235,Image is unloaded when switching tabs
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4866,Refuse to send unencrypted/plain text.
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4865,Crash on create new mail or reply
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4861,Duplicated email in sent folder
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4860,Duplicated folders after settings import
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4858,A strange German translation inconsistency
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4855,Make "share to menu" entries optional
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4853,Standalone PGP Integration
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4851,Headers not parsed
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4848,MessagingException: LocalFolder.open(): Folder not found: null (6) for POP3 account
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4842,Message are not marked as read on the server.
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4837,Existing draft messages shouldn't be touched if the user hasn't edited them
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4836,Autocrypt header always transmitted
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4834,Restore the "home" screen with all accounts and mail counts 
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4833,Notification does not clear
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4831,Showing unread message count
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4830,#Bug menu for non-standard notification sound are disappear.
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4826,Notifications ringtones
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4821,K9Mail beta 5.715 has no way to move message to spam without opening it
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4820,notification issues
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4819,Google play version 5.6 outdated, user guideline request
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4814,Local folder size does not work
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/614,[Issue] [Regression] Switching between day and night mode changes the page number
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/609,Problem in cover parsing
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/608,[Found workaround] Opening big files
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/607,Text won't be unselected after touch the "X" button of pop-out box of selected text.
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/602,Clicking on Epub contents doesn’t work 
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/600,Übersetzung
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/596,Юзабилити
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/593,[Feature] Disable page dividers in scroll mode
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/592,Library always adds files in Download
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/590,Printing
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/588,Librera cannot open cbz files via Nextcloud
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/586,Ошибка при выполнении команд make, ndl-build.
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/582,Feature request: Add more online book website
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/579,Issue while building project in android studio
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/577,Release APK is debuggable
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/569,Clouds support for Dropbox should use App folder not full access
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/568,Frequent crashes when opening markdown files
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/565,PDF reflow does not work
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/563,Possible Linux release
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/562,Feature:Highlight lines and words  
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/559,PDF content not shown
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/997,repository downloads are failing
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/996,App crashes when viewing stargazers after starring a repo
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/994,Crash when trying to open issue  (probably when loading templates)
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/983,Keeps crash when go to stars for a specific repository
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/975,Crashes on startup due to `ci_activity`
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/974,Play store update
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/970,Release package
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/968,Switching tasks loses work
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/961,purpose of bookmarks
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/960,Automatic dark mode
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/959,Crash on specific pull request
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/957,Pure Black theme for amoled display
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/954,Dont fuck wit meh
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/951,add reaction is no longer working
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/950,notifications
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/942,Bug report!
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/937,Crash on marking all notifications for one repo as read
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/936,Header color
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/935,Expand readme by default
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/933,Opening links from other apps
+slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/925,Trending repos have no username, no connection if clicked
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/756,Permission Denied when viewing v.reddit links
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/753,Permission Denied Errors virwing v.Reddit links
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/745,Text incorrectly shows up as: <emote: #* in tables in new Alpha 199
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/733,Feature Request: redgifs.com support (from gfycat for migrating nsfw content there)
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/723,External sites in the sidbar dont open
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/717,Gone from Play Store
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/714,Comments don't refresh on subreddit refresh
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/699,[Feature request] Open Reddit links with Red Reader
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/697,High Battery Usage on 1.9.11
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/693,Links do not work with reddit formatting
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/678,Minor issue on Spanish L10n in settings 
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/668,[FEATURE REQUEST] Add toggle to hide read threads
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/661,Cant login; wrong password.
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/656,Unable to sign into an account when using 2FA
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/644,Disable Javascript option
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/642,Language choices in settings are not well supported.
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/638,Basque translation isn't fully applied
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/624,Add a "find in the page" option
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/616,unable to login
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/606,menu option subscribe has disappeared
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/600,Notifications are not really marked as "read"
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/402,Implement visibility independently of the file system
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/401,Potential Bug: The app icon keeps disappearing from homescreen
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/398,WARNING. MainActivity
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/397,[Feature Request] Option for WiFi sharing
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/395,EACCES (Permission denied) while opening a file in another application
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/394,UX suggestion - option for list separators
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/383,Reported as risky app by Trend Micro anti virus.
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/378,[UX] Some suggestions that might improve file manager UX
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/369,When opening images in SimpleGallery, swiping left/right does not respect the folder's sorting
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/365,[feature request] Google Samba Plugin Support
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/364,Can't open password protecfed 7z file
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/350,Files list Invisible when search menu item is collapse
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/349,Hidden button disappear sometimes
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/348,Some color issues
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/347,Setting drop-down theme inconsistency
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/346,Sort by date seems not right
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/344,Keep "Date modified" when copying files (Root enabled)
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/340,Refresh icon behave strangely
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/339,internal / root option disappear
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/338,[BUG] Unlock in Pattern Mode is bugged after a Mistake
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/318,"This operation works only on rooted devices" when attempting to do most things other than rename.
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/747,dns changer
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/743,Using Private DNS fuction on Android 9 blokada losses connection (no connect)
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/736,I want to be able to see which lists requested the block in Host Log
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/735,Replacing the Android DNS address even when the option is disabled in Blokada
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/734,(Bug) Cannot view the "about" page of user-added Hostlists
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/730,Blokada contacting amplitude.com (again)
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/728,VPN connection not working on multi-user (restricted profile) android tablet/device 
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/727,block connections without vpn: no app can resolve DNS
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/725,Blokada uses 'Default' (cloudflare) dns even when DNS is deactivated
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/723,I want NextDNS to be an option in the recommended DNS servers list
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/719,Disableing request logger doesn't result in Host log not logging
+blokadaorg/blokada,https://github.com/blokadaorg/blokada/issues/713,Application exceptions don't update until Blokada is restarted

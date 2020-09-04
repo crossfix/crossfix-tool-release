@@ -1,0 +1,801 @@
+nextcloud/android,https://github.com/nextcloud/android/issues/6527,3.13 RC1 pin/fingerprint prompt not working
+nextcloud/android,https://github.com/nextcloud/android/issues/6526,App: on device should not list files not on device
+nextcloud/android,https://github.com/nextcloud/android/issues/6510,Upload file conflict persist independently on user choice
+nextcloud/android,https://github.com/nextcloud/android/issues/6509,App content is breifly visable before being prompted for the app passcode when switching apps
+nextcloud/android,https://github.com/nextcloud/android/issues/6508,Hide app content in recent apps/apps switcher when app passcode is enabled
+nextcloud/android,https://github.com/nextcloud/android/issues/6507,Some contents of encrypted directories are missing
+nextcloud/android,https://github.com/nextcloud/android/issues/6488,Unable to share a federated folder
+nextcloud/android,https://github.com/nextcloud/android/issues/6477,Display thumbnails for picture files in Activity
+nextcloud/android,https://github.com/nextcloud/android/issues/6473,App stopped, screenshots of the log attached
+nextcloud/android,https://github.com/nextcloud/android/issues/6470,Replace full-screen background when viewing films
+nextcloud/android,https://github.com/nextcloud/android/issues/6469,Auto-Upload is not working, after update on version 3.12.1
+nextcloud/android,https://github.com/nextcloud/android/issues/6465,Notes fails to connect with HTTP status-code 301 or 302
+nextcloud/android,https://github.com/nextcloud/android/issues/6464,ChromeOS files mount being disconnected randomly
+nextcloud/android,https://github.com/nextcloud/android/issues/6461,Android 10: No Nextcloud Storage Device (Files)
+nextcloud/android,https://github.com/nextcloud/android/issues/6460,Images are misaligned at File upload conflict 
+nextcloud/android,https://github.com/nextcloud/android/issues/6457,Auto upload not working - not enough space 
+nextcloud/android,https://github.com/nextcloud/android/issues/6451,Client requests garbage domains
+nextcloud/android,https://github.com/nextcloud/android/issues/6449,Auto-Upload not working whilst vpn is on
+nextcloud/android,https://github.com/nextcloud/android/issues/6446,"Not enough space" NC app trys to synchronize everything not only changes
+nextcloud/android,https://github.com/nextcloud/android/issues/6443,Auto upload doesn't work on Android for already uploaded photos.
+nextcloud/android,https://github.com/nextcloud/android/issues/6436,Folder too big crash
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2053,RemoteViews for widget update exceeds maximum bitmap memory usage
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2051,Problems with visibility option
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/2011,In a Webview a datalist element does not open a drop-down list with a click on a down-arrow. In the basicui everything works fine.
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1841,Unable to scroll sub items in Grafana chart displays
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1829,Video widget doesn't work with basic auth
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1808,WebViewFragment: NotFoundException String resource ID #0x2040003
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1806,KotlinNullPointerException in queryServerProperties()
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1805,IllegalStateException: FragmentManager is already executing transactions
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1802,Video widget crash
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1801,IllegalStateException: Restarter must be created only during owner's initialization stage
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1650,ContentController, IllegalStateException: Can not perform this action after onSaveInstanceState
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1615,Outline of section switch blurred
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1315,Issue with Charts in two pane mode
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1314,SITEMAP_CHANGED SSE breaks two pane mode
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1304,HabPanel timeouts
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1288,Cannot trigger pull to refresh sometimes
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1170,Delayed notifications
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/1008,slider updates too fast for a slow dimmer
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/898,Timeout when openhab-cloud is used for notifications only
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/833,Battery drain on Samsung note 8
+openhab/openhab-android,https://github.com/openhab/openhab-android/issues/747,Selection arrow too close to the screen edge
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1983,House number and name
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1982,Quest suggestion: Ask if a street is one-way only (for smaller towns/cities)
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1977,Android Navigation Bar covers bottom of quest dialogs
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1972,Clarify wording for highway=service
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1967,Keybord overlaps with quest window
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1966,Double undo has unexpected results
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1959,Pointer pin sometimes cut off at bottom
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1947,After making a note. Strange display
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1936,Pipeline markers type
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1892,iOS version
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1888,New quest suggestion: meal voucher
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1882,Extend maxheight quest to bridges
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1862,Quest: add addr:flats to apartment buildings
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1850,Ask for MTB difficulty for paths
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1842,[Bug] Zooming in with position indicator offscreen makes it point the wrong way
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1836,[discussion] wider use of check_date
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1827,New quest: Ask if a fuel station offers self service
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1817,Add quest for incline on steps
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1810,Quest focus-ring appears shifted.
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1772,More pre-fill options for building height quest
+westnordost/StreetComplete,https://github.com/westnordost/StreetComplete/issues/1756,[New Quest] Defibrillator location (access/opening hours)
+tasks/tasks,https://github.com/tasks/tasks/issues/1057,Request: Add font size selector for description and chips
+tasks/tasks,https://github.com/tasks/tasks/issues/1054,No option to ignore the random reminder notification 
+tasks/tasks,https://github.com/tasks/tasks/issues/1053,'My order' for tags and filters
+tasks/tasks,https://github.com/tasks/tasks/issues/1046,clarify filter option wording "due by next week ", "due by next month"
+tasks/tasks,https://github.com/tasks/tasks/issues/1045,Vibration is too strong in "Pick time"
+tasks/tasks,https://github.com/tasks/tasks/issues/1044,FR: Android widget for adding task
+tasks/tasks,https://github.com/tasks/tasks/issues/1042,[Minor FR]: icon replacement / additional icon
+tasks/tasks,https://github.com/tasks/tasks/issues/1041,Encrypted backups
+tasks/tasks,https://github.com/tasks/tasks/issues/1040,Respect 'Data Saver' mode
+tasks/tasks,https://github.com/tasks/tasks/issues/1039,Can't add arbitrary due dates
+tasks/tasks,https://github.com/tasks/tasks/issues/1034,Change log popup too intrusive. Distracts from the task I had in mind
+tasks/tasks,https://github.com/tasks/tasks/issues/1031,CalDAV (radicale) + DynDNS Domain = wrong username or password
+tasks/tasks,https://github.com/tasks/tasks/issues/1029,[feature request] Overdue tasks should be moved automatically to the new today in calendar
+tasks/tasks,https://github.com/tasks/tasks/issues/1028,[Feature request] Option whether completed tasks, completed entries of repeated tasks and deleted tasks should be automatically deleted from the calendar
+tasks/tasks,https://github.com/tasks/tasks/issues/1027,[Feature request] Allow color for task
+tasks/tasks,https://github.com/tasks/tasks/issues/1026,Reminders on Thunderbird/Lightning
+tasks/tasks,https://github.com/tasks/tasks/issues/1023,Recurring tasks don't recreate subtasks
+tasks/tasks,https://github.com/tasks/tasks/issues/1022,Hide "My Tasks" from sidebar
+tasks/tasks,https://github.com/tasks/tasks/issues/1018,Desktop app for Win
+tasks/tasks,https://github.com/tasks/tasks/issues/1017,Make "Back button saves task" into "Back button saves" [everywhere]
+tasks/tasks,https://github.com/tasks/tasks/issues/1016,Req: Reschedule-menu: Swap calendar and days/times for people who only use calendar
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2872,Diplomacy line needs to be scroll-able
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2863,Subs can attack across terrain
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2857,AI can declare war on player-allied city-states with impunity
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2844,Right Mouse Button moves units in Desktop version
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2838,Rebelling cities can be bought from the AI for extremely cheap price
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2825,Sync Between Desktop and Mobile / Synced Notifications and Gameplay
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2824,Improve Desktop Experience / Desktop UI
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2818,remove ability to improve and modify tiles outside of player territory
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2788,no diplomatic penalty from cutting trades short (easily abused to take the AI's money)
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2785,Pillaged improvements lack identification
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2748,Hills
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2679,Change Off Dropbox
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2652,As a user I would like to run my own server
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2619,Better resource management
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2551,Problem to run on OSX Catalina
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2404,New messages
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2375,Hope to have an automatic next round function
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2304,Civilopedia - Add Map Generation Description
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2238,Mod manager
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2237,Leader portraits
+yairm210/Unciv,https://github.com/yairm210/Unciv/issues/2232,Music system improvements
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/598,Samsung Galaxy Watch Support
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/593,It's possible to bypass the initial setup, leaving the application in an unusable state
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/592,andOTP locked after opening, closing, connecting or disconnecting a keyboard
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/591,The initial setup screen forces portrait orientation
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/590,Pressing return to confirm PIN entry shifts focus to dialog buttons instead of confirming
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/589,Cannot create backup
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/567,Switching language is not working.
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/545,Twitch TOTP invalid after a while
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/533,Files app frequently crashing when trying to create backup 
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/519,Export data generate a blank file 
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/507,Navigation bar - light icons on light background
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/498,Accessibility issues with Talkback
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/406,Crash when clicking away BitWarden safe dialog
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/346,3 dot menu moves up
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/332,andOTP Web Extension
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/285,andOTP generating invalid codes
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/269,Ubisoft unable to recognize andOTP codes
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/208,Back takes you back to app bypassing password
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/195,Fails to add entry via QR-Code
+andOTP/andOTP,https://github.com/andOTP/andOTP/issues/16,All tokens are lost after leaving the app
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/920,Selecting a note in the main note list highlights two notes
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/918,Nextcloud notes bug
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/912,Crash because of ArrayIndexOutOfBoundsException
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/909,Drag shadow dimensions must be positive
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/908,StringIndexOutOfBoundsException
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/890,Grid view: no padding top on Recycler View
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/868,Replace dialog with seekbar in settings
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/847,In-Note search crashes on Android 4.4
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/834,Sometimes error appears when editing note via note widget
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/761,Consistent timeouts when syncing
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/615,Request for an accountless mode
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/564,"TransactionTooLargeException: data parcel size 552920 bytes" with large note on activity lost focus
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/522,Overflow-menu contains "search" when searchview is open 🔎
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/401,Add toc/contents/index view of markdown headers
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/352,Swipe left/right to switch between edit and preview mode
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/330,Moce cursor when scrolling
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/231,Share a note with another account
+stefan-niedermann/nextcloud-notes,https://github.com/stefan-niedermann/nextcloud-notes/issues/161,Prevent editing of unsynchronized notes
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/533,Add translation link
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/532,Increase the number of KDF iterations
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/531,System buttons are very hard to read being white over white on Android 6.0.1
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/528,Allow for system previous button to work in the first run assistant
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/524,Support for Autofill of OTP tokens
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/512,Ask for password on import & export only
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/509,Icon packs
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/508,Support Share mechanism on Export
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/505,Provide an alternate method of selecting icons
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/501,Add support for SVG icons
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/494,Highlight: All items remain dark after standby
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/492,Improve discoverability of drag-and-drop feature
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/483,Import Battle.net Codes from various sources
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/476,Vault password page is not scrollable when viewing in landscape mode
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/473,Localization not included
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/456,Crash when importing if PreferencesFragment is restored from instance state
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/453,Feature request: remove duplicate entries
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/411,Change color of code before it expires.
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/354,Keep field titles visible, even after filling
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/351,Missing ellipsis for long key upon eyeball press
+beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/349,Can't see bottom of intro pages, so only can select "None" encryption, probably due to font size assumptions
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1302,Dark theme: system navigation bar background
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1299,Investigate CALL_PHONE permission Android 9+
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1290,Unable to register device for the last 4 days
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1279,Client fork violates GPLv3
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1266,Crash going back from location screen
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1235,Issue templates
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1216,File not found on audio download
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1177,Live messages sometimes arriving after offline messages
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1172,Characters typed after an emoji get sucked by it
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1166,Links containing $ break
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1129,"Last seen" not always correct
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1103,Not enough memory to rotate image
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1086,Switch to Fastlane
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1085,Crash when resuming chat for sending media
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/1055,Concurrency crash while playing audio
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/944,Do not request subscription automatically if user doesn't exist
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/882,Wait some time for initial presence
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/741,Notify compose activity of disconnection events
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/725,Compress animated GIF image
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/696,Crash on contacts list resume
+kontalk/androidclient,https://github.com/kontalk/androidclient/issues/684,Encrypt SSL private key
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/623,Add an option to remove "Librera PRO" from the Android context menu
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/622,Feature request: Page Animation 
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/613,[Feature Request] Edit EPUB metadata
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/612,Select text in pdf crop mode
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/611,inverted colors with cbz/cbr when using night mode
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/610,[Feature] Support for Page Labels of PDFs
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/606,FeatureRequest: RSVP-ShowBookDuration and RSVP-ShowChapterDuration
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/605,Feature Request: RSVP-StopAtEndOfChapter
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/604,[Feature] Change sort by folder to separate by folder, to allow sorting the files within the folder
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/603,[Feature] Ability to set "cover image" for tags
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/595,[Issue] Include footnotes directly in the text not working for EPUB files
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/584,Google Drive connection
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/578,support chinese Hyphenation language
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/576,WebDAV option among Cloud sync preferences
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/574,Annotation render problem
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/566,PDF Buttons are acted like annotations
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/564,Request: Export as library
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/561,Crash when opening epub file
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/560,[Feature] Nextcloud support
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/558,[Feature] Go To Page Thumbnail Size
+foobnix/LibreraReader,https://github.com/foobnix/LibreraReader/issues/557,[Feature] Better Find
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/339,ChromeOS 84 Files new design
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/335,Timestamp "modified time" is not the same after copying files or folders
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/332,"Internal shared storage" display is not updated automatically
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/330,Make current options available for multiple files
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/328,[Feature] File list pinch to resize text
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/324,Music and video files cannot be played.
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/323,[feature request] please wrap long file names
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/312,[Bug] Renaming folders: changes are not applied
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/309,Text Viewer: Scroll position is reset to cursor position when (un)hiding the keyboard
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/305,'Save to' option in Android's share menu
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/302,Mount / as read-write failed
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/291,Hall of Shame
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/289,Rename external storage
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/280,Decide which top bar to hide
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/279,Add contributing guidelines
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/277,Add Libraries
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/276,Add Recycle Bin
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/275,Text Editor Suggestions
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/267,[Feature Request] implement ability to encrypt/decrypt files
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/263,[Feature Request] Add storage analysis option
+zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles/issues/262,[FEATURE REQUEST] Standard Folders: Content-type: app 
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/861,Suddenly not working on screen keyboard.
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/858,When starting steam lately status is "in game NVIDIA.launcher"
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/856,I added 1600p and 1536p support.
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/854,Virtual home button emulation
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/853,Keyboard layouts
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/852,Feature Request - toggling display/audio streaming
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/849,audio pops
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/848,Feature request - Virtual home button and full customize virtual buttons layout
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/846,Request to add virtual controller switch button on stream
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/845,Game freeze..
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/843,Magic packet (wake-on-lan) on game launch AndroidTV Channel, Oreo (Feature request!)
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/840,Keyboard shift/ctrl/alt state is not captured when using mouse "numpad" buttons
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/837,Losing mouse exclusivity (on ChromeOS, possibly others)
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/836,Touchpad scrolling not working in ChromeOS
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/830,Error 545 (Streamer could not be started)
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/829,[request] Per-app settings
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/828,Request to add New Touch Analog Stick
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/827,7.1 sound issues
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/823,Please add support for Side by Side Mode (SBS) in android client
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/822,Middle Mouse overriden by android command
+moonlight-stream/moonlight-android,https://github.com/moonlight-stream/moonlight-android/issues/821,Gap between stylus position and mouse pointer with multiple monitors on host
+nextcloud/android,https://github.com/nextcloud/android/issues/6531,Pictures EXIF location info gets modified when uploaded by "share to" from galleries
+nextcloud/android,https://github.com/nextcloud/android/issues/6527,3.13 RC1 pin/fingerprint prompt not working
+nextcloud/android,https://github.com/nextcloud/android/issues/6526,App: on device should not list files not on device
+nextcloud/android,https://github.com/nextcloud/android/issues/6510,Upload file conflict persist independently on user choice
+nextcloud/android,https://github.com/nextcloud/android/issues/6509,App content is breifly visable before being prompted for the app passcode when switching apps
+nextcloud/android,https://github.com/nextcloud/android/issues/6508,Hide app content in recent apps/apps switcher when app passcode is enabled
+nextcloud/android,https://github.com/nextcloud/android/issues/6507,Some contents of encrypted directories are missing
+nextcloud/android,https://github.com/nextcloud/android/issues/6488,Unable to share a federated folder
+nextcloud/android,https://github.com/nextcloud/android/issues/6477,Display thumbnails for picture files in Activity
+nextcloud/android,https://github.com/nextcloud/android/issues/6473,App stopped, screenshots of the log attached
+nextcloud/android,https://github.com/nextcloud/android/issues/6470,Replace full-screen background when viewing films
+nextcloud/android,https://github.com/nextcloud/android/issues/6469,Auto-Upload is not working, after update on version 3.12.1
+nextcloud/android,https://github.com/nextcloud/android/issues/6465,Notes fails to connect with HTTP status-code 301 or 302
+nextcloud/android,https://github.com/nextcloud/android/issues/6464,ChromeOS files mount being disconnected randomly
+nextcloud/android,https://github.com/nextcloud/android/issues/6461,Android 10: No Nextcloud Storage Device (Files)
+nextcloud/android,https://github.com/nextcloud/android/issues/6460,Images are misaligned at File upload conflict 
+nextcloud/android,https://github.com/nextcloud/android/issues/6457,Auto upload not working - not enough space 
+nextcloud/android,https://github.com/nextcloud/android/issues/6451,Client requests garbage domains
+nextcloud/android,https://github.com/nextcloud/android/issues/6449,Auto-Upload not working whilst vpn is on
+nextcloud/android,https://github.com/nextcloud/android/issues/6446,"Not enough space" NC app trys to synchronize everything not only changes
+nextcloud/android,https://github.com/nextcloud/android/issues/6443,Auto upload doesn't work on Android for already uploaded photos.
+wallabag/android-app,https://github.com/wallabag/android-app/issues/1024,Google Play requires app updates to target API 29 starting from August
+wallabag/android-app,https://github.com/wallabag/android-app/issues/1021,Improve article tags managing screen
+wallabag/android-app,https://github.com/wallabag/android-app/issues/1013,tagging eventually hangs in 2.4.0beta4
+wallabag/android-app,https://github.com/wallabag/android-app/issues/975,Auto-sync is broken
+wallabag/android-app,https://github.com/wallabag/android-app/issues/974,Foreground services
+wallabag/android-app,https://github.com/wallabag/android-app/issues/973,Improve dark (high contrast) theme
+wallabag/android-app,https://github.com/wallabag/android-app/issues/961,Incorrect background color of the three-dot-menu
+wallabag/android-app,https://github.com/wallabag/android-app/issues/954,Option to specify storage location
+wallabag/android-app,https://github.com/wallabag/android-app/issues/939,After interruption, TTS restarts at wrong place
+wallabag/android-app,https://github.com/wallabag/android-app/issues/910,add sum of estimated total reading time
+wallabag/android-app,https://github.com/wallabag/android-app/issues/909,App remains blocked in cleaning up deleted items mode
+wallabag/android-app,https://github.com/wallabag/android-app/issues/905,App enters in `UnsuccesfulResponseException` notification loop
+wallabag/android-app,https://github.com/wallabag/android-app/issues/904,In a dark theme, the icon on Google Play is very poorly visible
+wallabag/android-app,https://github.com/wallabag/android-app/issues/898,Pagination function
+wallabag/android-app,https://github.com/wallabag/android-app/issues/854,The size of the text that works with a button.
+wallabag/android-app,https://github.com/wallabag/android-app/issues/835,Better handling of incorrect API client credentials
+wallabag/android-app,https://github.com/wallabag/android-app/issues/821,Search titles first
+wallabag/android-app,https://github.com/wallabag/android-app/issues/813,Rephrase some of the settings description
+wallabag/android-app,https://github.com/wallabag/android-app/issues/809,Upgrade to Google's new Material Design Library
+wallabag/android-app,https://github.com/wallabag/android-app/issues/798,Request: Track area article scrolling
+wallabag/android-app,https://github.com/wallabag/android-app/issues/796,f-droid FAQ link is broken
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1533,Switch to a less invasive QR scanner app
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1527,Confusing error message about insufficient space: 1.0% < 1%
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1526,Avoid recreating unnecessary "stfolder" in syncthing folders
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1522,can not syncing after restart
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1509,Allow to enable media registration in folder
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1501,Syncthing doesn't detect changes on Android 6 / Marshmallow
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1497,Wireguard on and wifi off -> wifi on -> restart Syncthing -> crash
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1494,Clicking Exit when Syncthing is disabled
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1477,Feature request: allow "Save to Syncthing" to overwrite files
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1473,Syncthing won't start anymore and config.xml is empty
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1472,"Save to Syncthing" subfolder can't be changed once set.
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1463,Display entire text in welcome screen requesting location permission.
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1452,Space in remote address causes high battery usage
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1451,Crashes with bad syscall on Google Slate
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1448,Folder names and IDs that only differ in cases may refer to the same folder
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1447,add Confirmation Dialog Box for "replace changes" Button
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1444,Bug: Broken web gui dpad navigation 
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1426,No visible warning for inotify limit
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1423,[Feature Request] Define distinct conditions for running and syncing
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1418,Material Theming
+syncthing/syncthing-android,https://github.com/syncthing/syncthing-android/issues/1417,Update icons on the Google Play Market
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1176,All-day events break event creation time
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1175,Go back to Search results after opening one and using Back
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1172,change background of day in MonthView 
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1170,Contact Birthday not correct when changing timezone
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1161,Visually differentiate All-Day events
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1153,6.9.4 add many "loading" entries in Gadget
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1150,CalDAV syncs are always flagged "manual", causing issue with DAVx5
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1143,Check a biweekly recurring glitch
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1141,Overflow in "Display events from the past" function with high months numbers
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1139,The monthly widget sometimes makes my phone crash
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1131,List view widget flickers
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1122,Check some time zone related shifting issues with syncing via Zoho
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1110,Frequent CPU spikes lead to battery drain
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1108,handling status event cancelled
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1104,Add support for alternate calendar 
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1102,bug: lose the last repeat event
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1095,Some RRULEs not parsed correctly
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1083,Recurring items are shown wrong
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1082,[Feature request] repeat alarm sound after user defined amount of time
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1081,[bug] Februar 29th
+SimpleMobileTools/Simple-Calendar,https://github.com/SimpleMobileTools/Simple-Calendar/issues/1078,Notifications raised twice sometimes
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/743,Integration of Offline Calendar Does Not Include the Color Wheel For Precise Color Choice
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/742,Done Button Poorly Responsive
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/739,Parsing of attendees in ical file is totallly broken
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/735,Installing f-droid 1.0.22 update throws error
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/731,UI overhaul to 'slim' down the ui
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/730,Calendarbar to switch visibility of calendars quickly
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/729,More and longer reminder
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/727,feature request: change color of current day
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/713,feature request: choose custom time for the reminder
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/712,Phone number selection for one-tap mobile numbers
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/699,Does not allow "Change only this event" for events from offline calendars
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/674,Etar does not use the internal speaker when an external speaker is connected
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/669,default reminder time
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/665,Reminders to leave based on travel time
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/663,Option to disable all-day event notifications
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/662,Unable to set repeating event on last day of month
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/642,[Bug] Using goto in daily view results makes events invisible
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/636,events list is blank upon uncollapsing, daily view
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/635,Email notification is never sent
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/633,Fail to recognize the date from iCal
+Etar-Group/Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar/issues/630,Bug: No longer an option to have no loop notifications
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/612,Feature Suggestion
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/611,Sugestion: big picture
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/609,Notification Not Work on Mi 10 Pro
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/607,Re-add different midnight time (3am) for when the "next day" starts
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/606,Add Github sponsor to repository
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/603,Remove internet permission
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/598,Crash: IllegalStateException in MemoryHabitList.reorder
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/597,Widget fadeout relative to time until habit is non-chainable
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/593,Unable to remove notification if ticked manually from inside the app
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/589,Feature request: Add a button to randomly suggest an open task
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/586,Habit ticked by default
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/584,Unable to create widgets on home screen
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/583,Publish in Huawei App Gallery
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/579,Highlight habits that need to be done today
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/577,Google Assistant Integration
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/573,Best streaks has duplicated the latest streak
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/565,Hide completed, but only if you've explicitly checked them today
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/561,Feature Request: Option to display the percentage success rate for all habits over a certain time period.
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/560,New streak behaviour doesn't work for all use cases
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/552,Visualization for completing all habits each day
+iSoron/uhabits,https://github.com/iSoron/uhabits/issues/546,Notifications in large number no longer combined together in 1.8.x
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/967,[BUG] OTP entries aren't being treated as OTP passwords
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/926,Chrome Autofill issues
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/922,[FEATURE] Edit Entry Mode
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/889,[FEATURE] Keyboard (IME) support
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/883,[FEATURE] Reselect an ssh key during initial setup
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/845,[BUG] No-git store flow is broken
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/836,[FEATURE] configure git pull behavior
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/831,[FEATURE] webdav integration
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/830,[BUG] Tabs in extra content not displayed
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/680,Architectural changes required for long-term maintenance
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/548,Support multiple authentication methods
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/535,Sort by recently used
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/527,Add ssh-ca-certificate ability
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/408,Add support for ssh ProxyJump
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/371,allow to specify a base path
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/333,SSH Git sync fails: Auth fail [preauth]
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/306,Clear clipboard and passwords on Ripple alert
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/298,Support synchronizing to a git branch besides master
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/284,Add ability to view git commit log and SHA's
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/277,add option to automatically sync
+android-password-store/Android-Password-Store,https://github.com/android-password-store/Android-Password-Store/issues/270,Feature Request: Integration with android-keyboard-gadget (hid-gadget-test, to write passwords via usb)
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/759,Some preference keys are translatable on Weblate
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/755,Simpler/faster account switching
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/751,No tooltips on new subreddit toolbar
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/750,Preference labels do not wrap
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/749,The page will load infinitely after the network type changes
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/747,Connection errors and slow download speeds with redgifs connections
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/746,Scrollbar does not appear when scrolling with non-touchscreen methods
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/740,[Feature request] Handle click.redditmail.com links
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/739,[Feature Request] Line Spacing
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/738,Feature Request: Old nsfw gfycat.com links redirect to gifdeliverynetwork.com support
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/734,Incorrect link tooltip parsing
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/732,Feature Request: Highlight external link on Front Page browinsing
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/731,Abort media loading
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/728,Block user
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/725,Image Selection Uploads Fail
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/724,Feature request: support reddit polls
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/722,Crash on login attempt
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/721,Feature request: hide images from feed
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/720,Search in NSFW subreddit not working
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/715,Upcoming API change to post endpoint
+QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader/issues/713,option to manually mark as read 
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/944,RunnerUp updated in Google Play
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/942,Advanced workout problem
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/941,Target coaching frequency 
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/935,Dropbox: New users cannot connect
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/923,clicking "Start GPS" does not work/react if the location permission is denied
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/922,Samsung android 10
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/920,current pace/speed systematically wrong
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/916,F-Droid fails to build
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/914,Unable to find explicit activity class
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/913,Window Leak in AccountListActivity
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/912,Long term future planing
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/910,Wrong time reporting
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/908,Donation platform
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/907,Translation platform
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/893,Lost tracking
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/881,Setting for Runalyze Sync ends with blank page
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/872,NullPointerException at RunActivity
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/848,Dontation and Tax
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/846,App crashes when testing app
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/812,Wear migration required for AndroidX
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/issues/791,Strava, Runalyze: Runkeeper login with Google: disallowed_useragent
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3839,Inconsistent naming of 'Busy' / 'Do not disturb'
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3835,Feature Request: Implement Requesting Voice for moderated MUCs
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3834,Failing file transfer trapped in retry loop
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3833,Upside down video calls
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3832,Replying to MUC whisper (PM) from the notification bar sends message to the main chat instead
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3830,Improve tolerance for bad connections/interruptions
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3804,Communicate device language
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3803,Carbon'd errors not shown
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3801,Incoming call uses notification sound instead of ringtone on Android 8+
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3791,Bluetooth No Audio Input
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3766,Investigating related crashes caused by RTP session not finishing properly
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3731,Wrong camera-ratio using videocall-feature
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3721,Swipe to answer/reject call
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3710,Feature request: Add a setting to disable auto join on invite
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3706,Turning hands-free off mutes the mike
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3681,Display ban reason
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3662,Display remaining message to be read
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3603,Quoting Arabic RTL text causes right-margin cutoff
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3596,[Quicksy] Copy paste phone number and verification code
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3589,Feature Request: Add JID (+Timestamp) into filename for received Media
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3531,Feature Request: automatic cyclic backups
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/848,Artist tag sometimes is read uncorrectly
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/847,Alphabetical order sometimes fails
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/846,FLAC: Missing Metadata in Album
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/844,Automatically Download Album Arts from Online
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/843,Cannot add song to playlist
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/842,[Feature Request]Add support for opus type  :)
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/841,Not detecting payment after latest update
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/832,Playlist add song fail
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/829,Some error
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/828,Playlists
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/826,Cant edit song's info via tag editor which are present in sd card 
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/825,Playlist Error
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/824,Song ordering within an album
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/823,Scanning media is broken
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/822,Bad text encoding
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/821,[Feature Request] Multigenre / multiple genre
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/818,German band "Mia." is listed together with British singer "M.I.A."
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/817,search by folders
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/816,Cannot add songs to playlist
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/815,Album and genre information updates
+kabouzeid/Phonograph,https://github.com/kabouzeid/Phonograph/issues/814,Ricerca per cartelle
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3839,Inconsistent naming of 'Busy' / 'Do not disturb'
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3835,Feature Request: Implement Requesting Voice for moderated MUCs
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3834,Failing file transfer trapped in retry loop
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3833,Upside down video calls
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3832,Replying to MUC whisper (PM) from the notification bar sends message to the main chat instead
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3830,Improve tolerance for bad connections/interruptions
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3804,Communicate device language
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3803,Carbon'd errors not shown
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3801,Incoming call uses notification sound instead of ringtone on Android 8+
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3791,Bluetooth No Audio Input
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3766,Investigating related crashes caused by RTP session not finishing properly
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3731,Wrong camera-ratio using videocall-feature
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3721,Swipe to answer/reject call
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3710,Feature request: Add a setting to disable auto join on invite
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3706,Turning hands-free off mutes the mike
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3681,Display ban reason
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3662,Display remaining message to be read
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3603,Quoting Arabic RTL text causes right-margin cutoff
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3596,[Quicksy] Copy paste phone number and verification code
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3589,Feature Request: Add JID (+Timestamp) into filename for received Media
+iNPUTmice/Conversations,https://github.com/iNPUTmice/Conversations/issues/3531,Feature Request: automatic cyclic backups
+00-Evan/shattered-pixel-dungeon,https://github.com/00-Evan/shattered-pixel-dungeon/issues/441,Duplicate artifact 
+00-Evan/shattered-pixel-dungeon,https://github.com/00-Evan/shattered-pixel-dungeon/issues/408,piranha don't immediately "die"
+00-Evan/shattered-pixel-dungeon,https://github.com/00-Evan/shattered-pixel-dungeon/issues/331,Automatic capitalization of sentences (translations)
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/201, Code Quality Analysis
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/199,Removing a tag crashes the app 
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/196,Team pomodoro (Connect to a network service)
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/192,App crashing on google pixel 2, Android 10, when trying to change default sound
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/191,UI redesign
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/189,Handle notifications during a call
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/183,Implement a flashing notification
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/182,Auto pause on incoming call
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/180,Allow gestures to be disabled
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/168,Pick a custom timer time
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/154,Move timer in screensaver mode in small increments
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/151,Support for Automate/Tasker
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/150,Play sound one minute before a Pomodoro will end
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/102,Support "Do not disturb, priority mode"
+adrcotfas/Goodtime,https://github.com/adrcotfas/Goodtime/issues/58,Add tests
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6726,Make AnkiDroid resizable
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6718,Ankidroid spontaneously renames decks
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6717,Reviewer App Bar: Unable to disable "Enable Whiteboard" and "Edit Tags"
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6715,[2.12 ACRA] onFinishedStartup - NullPointerException - collection is null
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6705,AnkiDroid is breaking javascript
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6702,Reviewer - confForDid - Attempt to invoke virtual method 'boolean org.json.JSONObject.has(java.lang.String)' on a null object reference
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6687,Due cards calculation - deviation between AnkiDroid/Anki desktop (and AnkiMobile)
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6681,Media tries to download via sync even though the media already exists
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6680,Unable to copy files directly from PC into collection.media folder
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6677,Autopublish to Huawei app gallery
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6671,FlashCardViewer - resumeTimer - catch Exceptions and move to background thread
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6670,On big screen, no immediate split
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6669,Image not showing in study options menu.
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6668,MathJax slows the card loading
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6661,Feature request: Manually rearrange cards
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6660,New phone and my progress didn't save 
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6657,Issue on AnkiDroid: Wrong time calculation
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6653,Deck Picker Task Cancellation: ConcurrentModificationException
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6650,_walkingCount - NullPointerException
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6646,Feature request: App action to trigger synchronization
+ankidroid/Anki-Android,https://github.com/ankidroid/Anki-Android/issues/6639,Decks.isValidDeckName is named poorly and does not fully validate
+martykan/forecastie,https://github.com/martykan/forecastie/issues/495,Using a date format with day of the week causes app to crash
+martykan/forecastie,https://github.com/martykan/forecastie/issues/492,Split translation strings into multiple strings files
+martykan/forecastie,https://github.com/martykan/forecastie/issues/488,UV Index sometimes shows incorrect values
+martykan/forecastie,https://github.com/martykan/forecastie/issues/487,Forecastie does not work on devices below API 21
+martykan/forecastie,https://github.com/martykan/forecastie/issues/486,Layout bug in weather status icon
+martykan/forecastie,https://github.com/martykan/forecastie/issues/460,Malformed query in City Search causes silent failure
+martykan/forecastie,https://github.com/martykan/forecastie/issues/454,The temperature covers weather icon in Simple 2x1 widget
+martykan/forecastie,https://github.com/martykan/forecastie/issues/450,Licences for artwork
+martykan/forecastie,https://github.com/martykan/forecastie/issues/449,Add SPDX-compatible licence info to each file
+martykan/forecastie,https://github.com/martykan/forecastie/issues/447,Audit all dependencies
+martykan/forecastie,https://github.com/martykan/forecastie/issues/438,Sometimes, clicking the widget makes forecastie "crash"
+martykan/forecastie,https://github.com/martykan/forecastie/issues/436,System time format is not always respected
+martykan/forecastie,https://github.com/martykan/forecastie/issues/422,App crash on opening graphs near Montreal, CA
+martykan/forecastie,https://github.com/martykan/forecastie/issues/395,IllegalArgumentException when Android AVD does not provide ''network"
+martykan/forecastie,https://github.com/martykan/forecastie/issues/374,Remove time and date from 4x1 widget
+martykan/forecastie,https://github.com/martykan/forecastie/issues/355,Add option to change the font color in transparent widget mode
+martykan/forecastie,https://github.com/martykan/forecastie/issues/349,Crash at startup without internet connection
+martykan/forecastie,https://github.com/martykan/forecastie/issues/341,Make the 2x1 widget symmetrical
+martykan/forecastie,https://github.com/martykan/forecastie/issues/316,Use better error messages/handle fatal errors more gracefully
+martykan/forecastie,https://github.com/martykan/forecastie/issues/235,Copyright violation
+martykan/forecastie,https://github.com/martykan/forecastie/issues/234,Crash report
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/440,Every relaunch opens a new Startpage-tab
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/439,crash
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/435,Google search history (localstorage) not cleared
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/431,Navigation Button Gestures Almost Entirely Useless
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/430,Focus is not on web page after inputting URL or search term in address bar
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/428,A crash on WebView
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/424,[Feature Request] Allow actions "Search on site", "Save as bookmark" and "Share link" as gestures
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/419,button names
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/392,Splashscreen
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/377,Tabs are closed when app is swiped away.
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/375,(Feature request) add report bug button
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/373,Error Download file from blob
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/361,Option to disable WebRTC
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/353,Resuming app sometimes resets browsing session to homepage
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/350,Open Blob URL Problem
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/295,Bug: Webview fails to display entire page.
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/279,Crashes when editing address
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/253,Use correct search text for Android Autofill API
+scoute-dich/browser,https://github.com/scoute-dich/browser/issues/223,Add support for the javascript: URI scheme
+barbeau/gpstest,https://github.com/barbeau/gpstest/issues/416,Real-time signal strength indicators missing on Android 4.0.4 phone
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/712,Snow Rally Canada crashes with a StackOverflow
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/711,Frameskip option
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/710,Bluetooth permission request opens infinite dialog boxes
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/709,Pro Evolution Soccer 2011 freezes the screen in multiplayer mode
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/700,Asphalt 4 : Elite Racing (2D Version) - Background Music Enhancement
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/694,Highway Racer - app crashes
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/692,Car Racer not starting at all
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/686,Fast and furious fugitive 2d or 3d 
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/684,Asphalt 6 - low fps
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/682,Can't play streaming radio (Mocha Radio)
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/679,Boulder Dash - stuck at white screen
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/675,Rayman3 - app not respond and crashes
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/672,Mesmidp Browser crashes
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/668,Assassin's Creed Revelations - sprite glitches
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/663,Revival 2 - Low fps
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/661,Snake Ex2 Graphical Bug
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/653,Crash when start mission in game Tenchu
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/651,My life in new york - Touch problem
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/646,Need for Speed: The Run - Black Screen
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/644,Demon Hunter II (Soco Soft) [Game Freeze]
+nikita36078/J2ME-Loader,https://github.com/nikita36078/J2ME-Loader/issues/638,Can't start normal gameplay (Hungry Puppy 3D)
+koreader/koreader,https://github.com/koreader/koreader/issues/6421,UI freezes frequently, seemingly correlated with network usage
+koreader/koreader,https://github.com/koreader/koreader/issues/6418,Gallica OPDS doesn't always provide item author
+koreader/koreader,https://github.com/koreader/koreader/issues/6415,Integration in pocketbook menu
+koreader/koreader,https://github.com/koreader/koreader/issues/6413,KOreader crashes when loading one particular book
+koreader/koreader,https://github.com/koreader/koreader/issues/6412,Koreader crashing on Pocketbook Touch Lux 4 with FW 6.0.1118
+koreader/koreader,https://github.com/koreader/koreader/issues/6409,Unable to zoom on cover image
+koreader/koreader,https://github.com/koreader/koreader/issues/6407,Status bar is gone every time I relaunch the app
+koreader/koreader,https://github.com/koreader/koreader/issues/6402,Japanese keyboard dakuten and handakuten
+koreader/koreader,https://github.com/koreader/koreader/issues/6390,KOReader crash while downloading large files in kobo clara hd
+koreader/koreader,https://github.com/koreader/koreader/issues/6369,PocketBook: News download and Wallabag not working since 201904
+koreader/koreader,https://github.com/koreader/koreader/issues/6343,Crash while trying to save highlights on exit of "repaired" pdf/file
+koreader/koreader,https://github.com/koreader/koreader/issues/6339,Slightly malformed TOC not showing
+koreader/koreader,https://github.com/koreader/koreader/issues/6321,Koreader doesn't reuse existing running instances
+koreader/koreader,https://github.com/koreader/koreader/issues/6310,pdf auto crop is not working properly
+koreader/koreader,https://github.com/koreader/koreader/issues/6303,Sometimes dictionary window won't open
+koreader/koreader,https://github.com/koreader/koreader/issues/6281,Can't login to Evernote - OAuth verifier not found
+koreader/koreader,https://github.com/koreader/koreader/issues/6278,Night mode in kobo 
+koreader/koreader,https://github.com/koreader/koreader/issues/6277,Configurable brightness/warmth step size for tap gesture
+koreader/koreader,https://github.com/koreader/koreader/issues/6272,Google fonts plugin
+koreader/koreader,https://github.com/koreader/koreader/issues/6270,Zoomed RTL content starts from the left side
+koreader/koreader,https://github.com/koreader/koreader/issues/6235,Hanging Punctuation does not work, only the hyphen hangs.
+termux/termux-app,https://github.com/termux/termux-app/issues/1671,Need help with using 'settings' command
+termux/termux-app,https://github.com/termux/termux-app/issues/1670,Lint error on build
+termux/termux-app,https://github.com/termux/termux-app/issues/1651,please add hot key to create new Termux session
+termux/termux-app,https://github.com/termux/termux-app/issues/1636,URL picker: cannot copy multiline url
+termux/termux-app,https://github.com/termux/termux-app/issues/1620,can no longer produce modifier Alt + Shift
+termux/termux-app,https://github.com/termux/termux-app/issues/1619,new icon size and border
+termux/termux-app,https://github.com/termux/termux-app/issues/1617,Storage access not working on Android 11 beta (Pixel 3)
+termux/termux-app,https://github.com/termux/termux-app/issues/1602,Using Kotlin Script
+termux/termux-app,https://github.com/termux/termux-app/issues/1545,Space Bar Not Working on Virtual Keyboard Android Tablet
+termux/termux-app,https://github.com/termux/termux-app/issues/1544,[RFE] Allow Termux Styles to define a color for extra keys background
+termux/termux-app,https://github.com/termux/termux-app/issues/1539,Gboard keyboard can not be used properly in termux
+termux/termux-app,https://github.com/termux/termux-app/issues/1533,exec("/data/data/com.termux/files/usr/bin/login"): Permission denied
+termux/termux-app,https://github.com/termux/termux-app/issues/1530,record voice using pyaudio
+termux/termux-app,https://github.com/termux/termux-app/issues/1528,First character of string in Text Input View can only be ASCII
+termux/termux-app,https://github.com/termux/termux-app/issues/1525,Termux does not support immersive mode properly on Samsung One UI
+termux/termux-app,https://github.com/termux/termux-app/issues/1519,ˋCTRL ALT -ˋ dont change font size
+termux/termux-app,https://github.com/termux/termux-app/issues/1513,Termux does not work on MiReader
+termux/termux-app,https://github.com/termux/termux-app/issues/1496,  Tsu failed to promote permission。android7.1.2 CPU mtk6795
+termux/termux-app,https://github.com/termux/termux-app/issues/1492,Repeating characters on Samsung keyboard
+termux/termux-app,https://github.com/termux/termux-app/issues/1482,Floating buttons
+termux/termux-app,https://github.com/termux/termux-app/issues/1463,German keyboard layout problem: '<' and '>' keys wrongly mapped
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1952,When /etc/resolv.conf is a symlink to /run/systemd/resolve/stub-resolv.conf, Mullvad doesn't detect that it cannot modify system DNS settings
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1937,Installation Aborted
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1921,Can't create wireguard key, and then error attempting to send issue report within the app
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1899,Fedora repository
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1893,Mullvad Linux clients interferes with Podman in Fedora
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1889,Android split tunneling
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1885,After removal, unable to have DNS dynamically set to anything else other than Mullvad default (10.64.0.1)
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1884,Feature Request: Trusted Network
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1879,android:  differentiate mullvad icon in status bar when connected or not
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1876,Connected to wireguard but showing a different ip location
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1875,Hard blocking by Mullvad on Win10 startup
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1872,error when trying to change app name in windows
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1856,Connection broken after Airplane Mode
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1847,Internet doesn't work after network switching
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1846,Incorrect & inconsistent days left
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1845,[Linux] NetworkManager shows limited connectivity if started when Mullvad is on
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1826,Support for Android TV
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1785,iOS - VPN not reconnecting when going from WiFi to mobile to WiFi
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1762,Mullvad slows usage of apt in Ubuntu
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1755,iOS - Wifi ending up non functional
+mullvad/mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app/issues/1744,2020.4 Debian 10 LXQT wrong tray icon
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4884,V5.717 crashes when clicking on reply/answer... 
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4881,Deleting messages make them disappear
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4872,URLs in reopened drafts are bracket expanded not delimited (recursively)
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4871,Mutiple edits to draft isn't syncronised to IMAP (gmail)
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4870,if key changed by the counter party, then the "Key has been changed" should be displayed to the user
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4867,Messages to yourself aren't encrypted automatically with Autocrypt mutual mode enabled
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4864,no notification sound except system default
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4854,No indication of failed pop3 retrievals
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4818,Black theme issue with youtube thumbnails
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4815,Local folder size limit does not work
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4797,Crash when start composing mail with account not fully created
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4789,Crashed when deleting multiple emails from unified inbox
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4768,K9 silently discards inline edits
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4766,5.713 crashes when switching to an Office365 account
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4759,[Autodiscovery] Change ConnectionSettingsDiscovery interface
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4753,Repeated characters when typing addresses
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4747,'Checking e-mail' notification in infite loop
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4745,[Feature Request] Add option to "pin" folder in Unified Inbox drawer
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4737,Remote search fails for Persian word
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4731,Reply quote buttons are out-of-place
+k9mail/k-9,https://github.com/k9mail/k-9/issues/4725,UI : with modern (tall) phones, the top bar is not the best place to put important elements
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/640,Themes available in Free version
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/638,Sometimes Lock button doesn't work
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/637,Feature request: Adding SharePoint integration.
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/635,Feature request: generate Base 32 keys for OTP
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/634,Add an option to move down every tabs.
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/633,Tags
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/632,Feature request: KeepassDX as a share target for Termux-share
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/631,Password strength check function 
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/630,Feature request: Option to use physical source of (entropy e.g. dice) for password generation
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/625,Add keyboard switching when database is locked
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/623,Add icons from KeePassXC
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/620,Dark theme with white text
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/618,More comfortable settings for the password generator
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/617,Database entry title: limit the max length and / or do automatic line break
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/611,Order of user defined fields
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/610,Quickly automatical adding the account of the new app
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/609,Open apps in KeepassDX, quick launch every apps
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/596,Feature: Auto-download and assign website's icons
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/591,Autofill puts the password in the username field of HBL app
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/586,No Tooltip for Magikeyboard 
+Kunzisoft/KeePassDX,https://github.com/Kunzisoft/KeePassDX/issues/581,Improve magikeyboard with "normal" keys
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/168,(Suggestion) Upgrade UI for Android TV
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/167,Add a way to delete older backups
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/158,Allow multiple single APK to be exported as .apk file
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/157,Install applications with data in internal memory
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/154,Allow internal file picker to install from external drive
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/151,Backup as zip
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/150,Installation option within the system.
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/143,After uninstalling the application installed in shizuku mode, the newly signed same application cannot be installed
+Aefyr/SAI,https://github.com/Aefyr/SAI/issues/100,Support for APKMirror .apkm files
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/406,ZIP (Deflate64 - Ultra) Decompression Issues
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/404,there is performance issue when moving to internal directory
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/403,Move folder along with files
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/392,Issues while accessing some root files
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/382,UX Behaviour of the [internal] part of the path
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/380,UX favourites suggestion 2 - picking from favourites when moving/copying
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/379,UX favourites suggestion 1
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/377,[Feature Request] Add support to NextCloud (or other synchronised service) files access
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/366,File Editor data loss after screen rotation
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/359,Make folders searchable and openable in search results
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/356,(feature request) Long Press Of Back Key To Exit
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/355,Automatic rename of copied files with the same name
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/345,Toolbar button inconsistency
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/337,[BUG] No Root on File Moving Mode
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/330,display line#
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/325,[feature request] swipe left / right to access different folders
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/324,[feature request] Add access to remote webdav folder
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/323,Opening .xml file causes app to become unresponsive
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/316,Make Some Options Available On Bottom
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/315,Long transfers seem to die after a while
+SimpleMobileTools/Simple-File-Manager,https://github.com/SimpleMobileTools/Simple-File-Manager/issues/308,Zip extraction failure on external sd and missing path separator in extracted folders
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1884,Check shortcuts with direct subfolder grouping
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1883,Empty recycle bin - don't require a fingerprint
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1882,Feature Request: play HDR Videos with correct Tonemapping like VLC-Player 
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1881,Feature Request: "All Folders Content" for subfolder
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1877,Request to add Recycle  Sort
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1873,[Bug] Share videos
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1872,Fullscreen cache adds JPEG artifacts that aren't in the image
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1870,Batch renaming causing files to go missing permanently
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1868,Poor visibility on landscape video view.
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1867,Font size doesn't change dynamically when toggle landscape/portrait.
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1865,when user double click on photo list or grid item of main activity, it shows two times of photoActivity
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1864,Portrait photo only displays rotated to landscape; landscape only displays portrait
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1843,[Feature request] Lock swipe directions to phone orientation
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1828,Videos fail to appear when wanting to share within an app
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1825,Add Automatic image enhancement in the Editor.
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1822,Allow changing the order of bottom action buttons
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1819,Allow changing jpeg quality when resizing
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1817,When unpausing videos, the first frame is shown for a brief second
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1816,Enable croping with custom dimensions in pixels
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1805,photo saved on sdcard do not appear
+SimpleMobileTools/Simple-Gallery,https://github.com/SimpleMobileTools/Simple-Gallery/issues/1800,"Use app in English" works only partially
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/603,Make openScale resizable
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/602,error first time making user
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/601,Error on startup
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/593,Insmart scale support
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/589,Inconsistent handling of decimal separator in manual input of weight entries
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/584,Scale support: Weight Gurus appSync non-bluetooth (bar code via camera)
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/580,Sawpy CF398BLE Support
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/569,Add Support Newgen Medicals PX-8827-675
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/562,Vigorun support missing for devices named `YG`
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/554,Support for Etekcity ESF24
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/547,Huawei Body Fat Scale AH100
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/544,Support for PICOOC S1 Pro
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/531,Support for BF-850
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/496,Support request for Chipsea based Body Fat analyzers
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/410,Support request for BL-26L01
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/402,Pivotal Living Smart Scale Support
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/401,support for Picooc Mini scale
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/399,Tanita RD-545IM Support
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/382,Support for Philips DL8781 
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/381,Add Tenergy Vitalis support
+oliexdev/openScale,https://github.com/oliexdev/openScale/issues/378,Honor CH100 scale support
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1801,Notifications are disabled for this session after update to Element
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1800,discord/telegram like swiping
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1799,animated GIFs do not play
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1798,Unable to send messages when captive_portal is blocked
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1796,QR Code scanner does not ever trigger
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1795,Room links do not open in the app.
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1794,Add admin option to disable E2EE for DMs / private rooms (users can still enable)
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1793,Unable to connect to LAN IP addresses
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1792,voice message feature
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1791,Red badge useless
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1789,Issues with DND and Element notifications on Android
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1787,Font size setting only affects mentions (on stable Element Android)
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1786,Dark Theme has some icons with incorrect color (on stable Element Android)
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1785,Can’t play videos (on stable Element Android)
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1784,Session id and session key not viewable
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1781,Words containing my name should not trigger notifications
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1780,error message is truncated
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1779,camera remains active after screen locking during video call
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1778,VoIP hot action buttons
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1777,make own camera preview movable
+vector-im/riotX-android,https://github.com/vector-im/riotX-android/issues/1776,Back camera preview is mirrored
+Telegram-FOSS-Team/Telegram-FOSS,https://github.com/Telegram-FOSS-Team/Telegram-FOSS/issues/430,Options to use system emoji
+Telegram-FOSS-Team/Telegram-FOSS,https://github.com/Telegram-FOSS-Team/Telegram-FOSS/issues/429,[Feature Request] Auto-Remove Exif Data, Auto-Rename
